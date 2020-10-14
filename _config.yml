@@ -298,4 +298,3 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-cayman
