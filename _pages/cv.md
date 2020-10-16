@@ -45,7 +45,6 @@ Work experience
   * Projects:
     * The integrated assessment system of the grassland ecosystem in the Three-River Headwaters region.
     * Estimates of photosynthesis active radiation using remote sensing data.
-
   * Supervisor: Quanqin Shao
   
 Skills
