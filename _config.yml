@@ -175,6 +175,9 @@ kramdown:
 
 # Collections
 collections:
+  news:
+    output: true
+    permalink: /:collection/:path/
   softwares:
     output: true
     permalink: /:collection/:path/
@@ -206,6 +209,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _softwares
   - scope:
       path: ""
