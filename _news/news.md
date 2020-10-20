@@ -10,5 +10,7 @@ redirect_from:
   - /news.html
 ---
 
+* 2020-10-17 HexWatershed model was submitted to the Journal of Open Source Software [JOSS](https://github.com/openjournals/joss-reviews/issues/2751).
+
 * 2020-10-16: HexWatershed becomes a member of the
-[CSDMS HexWatershed](https://csdms.colorado.edu/wiki/Model:HexWatershed)
+[CSDMS](https://csdms.colorado.edu/wiki/Model:HexWatershed).
