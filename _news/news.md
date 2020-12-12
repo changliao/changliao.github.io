@@ -11,7 +11,6 @@ redirect_from:
 ---
 
 * 2020-12-14 The first hydrologic model that uses HexWatershed for flow routing: 
-
 [AGU poster](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/673223).
 
 * 2020-12-10 AGU hydrology highlight: 
