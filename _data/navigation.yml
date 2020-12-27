@@ -13,7 +13,7 @@ main:
     url: /softwares/    
 
   - title: "Posts"
-    url: /year-archive/
+    url: /science/
     
   - title: "CV"
     url: /cv/
