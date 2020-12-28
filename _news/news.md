@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /news.html
 collection: news
 type: "news"
 title: "News"

@@ -3,6 +3,9 @@ main:
   - title: "News"
     url: /news/
 
+  - title: "Posts"
+    url: /posts/  
+
   - title: "Publications"
     url: /publications/
 
@@ -11,12 +14,12 @@ main:
 
   - title: "Softwares"
     url: /softwares/    
-
-  - title: "Posts"
-    url: /posts/
     
   - title: "CV"
     url: /cv/
+
+  - title: "About me"
+    url: /about/
     
 #  - title: "Guide"
 #    url: /markdown/
