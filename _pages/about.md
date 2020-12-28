@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am an Earth scientist at the Pacific Northwest National Laboratory.
+
 My research stands in the intersection of Earth Science interdisciplinary.
 
 I write general science articles at 
