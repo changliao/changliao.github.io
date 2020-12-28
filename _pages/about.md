@@ -10,10 +10,10 @@ I am an Earth scientist at the Pacific Northwest National Laboratory.
 My research stands in the intersection of Earth Science interdisciplinary.
 
 I write general science articles at 
-[science.changliao.us](science.changliao.us).
+[science.changliao.us](www.science.changliao.us/).
 
 I also write technical articles at
-[technology.changliao.us](technology.changliao.us).
+[technology.changliao.us](www.technology.changliao.us/).
 
 I developed models and tools to understand Earth system.
 
