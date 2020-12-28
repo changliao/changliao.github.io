@@ -10,14 +10,15 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+=========
 * B.S. School of Remote Sensing and Information Engineering, Wuhan University, 2009
-* M.S. School of Remote Sensing and Information Engineering, Wuhan University. 2011  
-       Institute of Geographic Sciences and Natural Resources Research, Beijing. 2011
-* Ph.D Department of Earth, Atmospheric, and Planetary Sciences, Purdue University. 2017
+* M.S. 
+  * School of Remote Sensing and Information Engineering, Wuhan University. 2011  
+  * Institute of Geographic Sciences and Natural Resources Research, Beijing. 2011
+* Ph.D. Department of Earth, Atmospheric, and Planetary Sciences, Purdue University. 2017
 
 Work experience
-======
+===============
 
 * 2020-Present: Earth Scientist
   * Pacific Northwest National Laboratory
@@ -59,13 +60,13 @@ Skills
 
 
 Publications
-======
+============
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Softwares and Applications
-======
+==========================
   <ul>{% for post in site.softwares %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -77,14 +78,13 @@ Talks
   {% endfor %}</ul>
   
 Teaching
-======
+========
 
 * Teaching assistant for Purdue EAS 116 Earthquakes and Volcanoes.
 * Leadership experiences in multiple projects and organizations.
 
-  
 Service and leadership
-======
+======================
 * American Geophysical Union 
 * Reviewer in several scientific journals
 
