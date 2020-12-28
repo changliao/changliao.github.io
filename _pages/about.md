@@ -7,7 +7,6 @@ redirect_from:
   - /about
 ---
 
-### Introduction
 I am a Ph.D. and my research stands in the intersection of Earth Science interdisciplinary.
 
 I write general science articles at 
