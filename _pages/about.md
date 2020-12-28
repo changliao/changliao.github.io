@@ -1,8 +1,10 @@
 ---
-permalink: /about.html
-title: "Earth Science"
-excerpt: "About me"
+layout: archive
+title: "About me"
+permalink: /about/
 author_profile: true
+redirect_from:
+  - /about
 ---
 
 ### Introduction
