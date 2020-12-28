@@ -12,7 +12,7 @@ I write general science articles at
 [www.science.changliao.us](www.science.changliao.us).
 
 I also write technical articles at
-[www.technology.changliao.us](www.technology.changliao.us)
+[www.technology.changliao.us](www.technology.changliao.us).
 
 I developed models and tools to understand Earth system.
 
