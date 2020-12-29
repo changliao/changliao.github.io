@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A revisit of spatial discretization
-date: '2019-09-04T15:45:00.001-07:00'
+date: 2019-09-04
 permalink: /posts/2019/09/revisit-spatial-discretization/
 author: Chang Liao
 tags:
