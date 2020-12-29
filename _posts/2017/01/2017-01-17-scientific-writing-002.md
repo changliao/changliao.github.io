@@ -2,14 +2,13 @@
  
 title: 'Scientific writing: high quality scalable vector graphics'
 date: '2017-01-17T19:20:00.000-08:00'
+permalink: /posts/2017/01/17/publication-vector-graphics/
 author: Chang Liao
 tags:
 - SVG
 - Google
 - Postscript
 modified_time: '2018-04-03T12:27:39.848-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-1276774263960812940
-blogger_orig_url: https://changliao.blogspot.com/2017/01/scientific-writing-002.html
 ---
 
 I recently found a new way to prepare publication-ready high quality vector graphic using Google Drive.

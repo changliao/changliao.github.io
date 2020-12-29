@@ -2,14 +2,13 @@
  
 title: 'High Performance Computing: Download and prepare data in a batch mode'
 date: '2017-01-13T13:15:00.001-08:00'
+permalink: /posts/2017/01/13/hpc-data-management/
 author: Chang Liao
 tags:
 - Linux
 - Wget
 - HPC
 modified_time: '2019-03-24T21:12:14.135-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-7284276323195921217
-blogger_orig_url: https://changliao.blogspot.com/2017/01/high-performance-computing-004.html
 ---
 
 Over the time, I need to manipulate a lot of data on a Linux cluster. Some of these manipulations actually read/write data, whereas some are essentially file system operations, such as downloading the files.
