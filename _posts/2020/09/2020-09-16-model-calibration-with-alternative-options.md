@@ -1,6 +1,6 @@
 ---
 title: 'Model calibration with alternative options'
-date: 2020-09-29
+date: 2020-09-16
 permalink: /posts/2009/09/model-calibration-with-alternative-options/
 tags:
   - Model calibration

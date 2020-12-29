@@ -1,6 +1,6 @@
 ---
 title: 'Watershed delineation on a hexagonal mesh grid: part B'
-date: 2017-09-01
+date: 2017-03-19
 permalink: /posts/2020/03/watershed-delineation-on-a-hexagonal-mesh-grid-part-b/
 tags:
   - Watershed
