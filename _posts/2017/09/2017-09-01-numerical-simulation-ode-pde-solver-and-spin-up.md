@@ -24,10 +24,25 @@ $Source$ is source;
 and $Sink$ is sink.
 
 In most cases, the $f(Q)$ depends on local gradient, which means that:
-
+\begin{equation}
+f(Q) = f(Q_{i,j}, Q_{i-1,j}, ...)
+\end{equation}
 
 With certain boundary condition (BC), we can write an array of equations:
-
+\begin{equation} \label{equ:matrix}
+\begin{bmatrix}
+      \frac{ \partial Q_{0,0} }{ \partial t }  \\[0.3em]
+      \frac{ \partial Q_{1,0} }{ \partial t }  \\[0.3em]
+      \frac{ \partial Q_{2,0} }{ \partial t }  \\[0.3em]
+      \frac{ \partial Q_{i,j} }{ \partial t }
+     \end{bmatrix} =
+     \begin{bmatrix}
+       f(Q_{0,0}) + f(w_{0,0}) + ... + Source_{0,0} - Sink_{0,0} \\[0.3em]
+       f(Q_{1,0}) + f(w_{1,0}) + ... + Source_{1,0} - Sink_{1,0} \\[0.3em]
+       f(Q_{2,0}) + f(w_{2,0}) + ... + Source_{2,0} - Sink_{2,0} \\[0.3em]
+       f(Q_{i,j}) + f(w_{i,j}) + ... + Source_{i,j} - Sink_{i,j}
+     \end{bmatrix}
+\end{equation}
 
 
 In some simple scenarios, we can solve the equations above directly. For example, when $Q_{i,j}$ is the only unknown, the total unknowns and number of equations are the same. In this case, we might be able to solve the equations using a direct solver (MUMPS, etc.).
