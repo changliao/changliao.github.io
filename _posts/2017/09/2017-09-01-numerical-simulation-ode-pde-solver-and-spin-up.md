@@ -14,7 +14,14 @@ Because of the nature of geology, everything is similar to its neighbors. So we 
 For example, let's imagine a single cube and corresponding model in space as below:
 
 ![Figure 1](https://github.com/changliao/changliao.github.io/blob/main/_figure/cube.png?raw=true)
-
+\begin{equation}
+\frac{ \partial Q }{ \partial t } = f(Q) + f(w) + ... + Source - Sink
+\end{equation}
+where $Q$ is unknown system state variable, i.e., storage;
+$f(Q)$ is storage related process;
+$f(w)$ is other processes;
+$Source$ is source;
+and $Sink$ is sink.
 
 In most cases, the $f(Q)$ depends on local gradient, which means that:
 
