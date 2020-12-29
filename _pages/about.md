@@ -3,6 +3,9 @@ layout: archive
 title: "About me"
 permalink: /about
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am an Earth scientist at the Pacific Northwest National Laboratory.
