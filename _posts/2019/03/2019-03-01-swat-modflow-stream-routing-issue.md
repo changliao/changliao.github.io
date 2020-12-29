@@ -9,7 +9,6 @@ tags:
 - ArcSWAT
 - PRMS
 - SWAT
-modified_time: '2019-03-12T17:04:43.422-07:00'
 ---
 
 Surface water hydrology and groundwater hydrology are coupled together in natural ecosystem. While it is easy to say so, it is not easy to model both of them simultaneously.
