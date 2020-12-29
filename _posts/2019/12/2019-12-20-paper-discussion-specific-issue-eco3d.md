@@ -1,4 +1,16 @@
-
+---
+layout: post
+title: Paper discussion special issue the ECO3D model
+date: '2019-12-20T20:04:00.003-08:00'
+author: Chang Liao
+tags:
+- DOC
+- Carbon
+- ECO3D
+- Water
+- 3D
+modified_time: '2020-01-04T13:02:40.038-08:00'
+---
 Recently we have published a paper on Journal of Advanced Modeling of Earth System.
 https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019MS001792
 
