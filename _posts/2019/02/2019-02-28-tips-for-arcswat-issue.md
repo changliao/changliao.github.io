@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tips for ArcSWAT issue
 date: '2019-02-28T11:53:00.000-08:00'
 permalink: /posts/2019/02/tips-for-arcswat-issue/
