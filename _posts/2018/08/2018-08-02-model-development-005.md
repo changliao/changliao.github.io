@@ -43,7 +43,9 @@ Before you start to read the numbers, you need to understand the index system us
 Even though Fortran is a column-major language, the E3SM (written in Fortran) stores the global grid using a row-major approach. As a result, global grid index starts from left to right in memory, same as the land mask (Figure 1).
 
 Note that yellow square represent clump index, blue square represent land index, and red square represents global grid index.
+
 ![Figure 1](https://github.com/changliao/changliao.github.io/blob/main/_figure/land_mask.png?raw=true)
+
 Figure 1. The global ID and land ID map.
 
 
@@ -52,7 +54,8 @@ Similar to global grid, clump/core index starts from left to right across node/p
 Last, we distribute the land grid onto the clumps. All the land grids are allocated to clump in order. In the end, a clump may simulate multiple land grids which are far away in the spatial domain. For example, the clump 1 simulates land grid 1, 41 and 81 (circled in yellow in Figure 1 and 2).
 
 
-![Figure 1](https://github.com/changliao/changliao.github.io/blob/main/_figure/elm_clump.png?raw=true)
+![Figure 2](https://github.com/changliao/changliao.github.io/blob/main/_figure/elm_clump.png?raw=true)
+
 Figure 2. The processor, clump and land grid decomposition.
 
 

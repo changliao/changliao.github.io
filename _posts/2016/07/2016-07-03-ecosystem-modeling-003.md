@@ -13,9 +13,9 @@ blogger_orig_url: https://changliao.blogspot.com/2016/07/ecosystem-modeling-003.
 component in ecosystem modeling. This is mainly because a lot of important 
 processes occur within this zone. 
 The location of vadose zone can be best illustrated by: 
-<div style="text-align: center;"><img 
-src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Vadose_zone.gif" />In 
-ecosystem modeling, most of the carbon/water dynamics are simulated within 
+
+
+In ecosystem modeling, most of the carbon/water dynamics are simulated within 
 this zone. 
 First, due to that the soil water is unsaturated, a modified Richard equation 
 must be used to simulate the 3D water flow. However, currently, most modeling 
