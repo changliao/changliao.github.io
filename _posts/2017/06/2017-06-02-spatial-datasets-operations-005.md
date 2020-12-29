@@ -2,13 +2,12 @@
  
 title: 'Spatial datasets operations: an overview of global climate dataset and interpolation'
 date: '2017-06-02T07:18:00.000-07:00'
+permalink: /posts/2017/06/02/climate-dataset/
 author: Chang Liao
 tags:
 - Anusplin
 - ANN
 modified_time: '2018-04-03T12:17:59.571-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-1037807517236776229
-blogger_orig_url: https://changliao.blogspot.com/2017/06/spatial-datasets-operations-005.html
 ---
 
 Climate dataset is literally the most important data in climate change research. Great efforts have been made to prepare climate dataset over the decades.

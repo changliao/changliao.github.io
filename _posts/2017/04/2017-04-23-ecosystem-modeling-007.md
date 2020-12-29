@@ -2,11 +2,10 @@
  
 title: 'Ecosystem modeling: uncertainty quantification'
 date: '2017-04-23T20:29:00.000-07:00'
+permalink: /posts/2017/04/23/uncertainty-quantification/
 author: Chang Liao
 tags:
 modified_time: '2018-04-03T12:18:36.976-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-381685099575089801
-blogger_orig_url: https://changliao.blogspot.com/2017/04/ecosystem-modeling-007.html
 ---
 
 I recently read a few news articles of skeptical attitudes towards climate 

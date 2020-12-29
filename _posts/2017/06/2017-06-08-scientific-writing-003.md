@@ -2,13 +2,12 @@
  
 title: 'Scientific writing: from LaTex to BibTex'
 date: '2017-06-08T18:37:00.001-07:00'
+permalink: /posts/2017/06/08/latex-to-bibtex/
 author: Chang Liao
 tags:
 - Mendeley
 - Latex
 modified_time: '2018-04-03T12:17:42.475-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-4578913744633339929
-blogger_orig_url: https://changliao.blogspot.com/2017/06/scientific-writing-003.html
 ---
 
 I am not very familiar with Tex system, but I use it for several purposes.

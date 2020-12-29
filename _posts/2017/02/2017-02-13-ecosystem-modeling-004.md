@@ -2,14 +2,12 @@
  
 title: 'Ecosystem modeling: challenges in simulating the dissolved organic carbon '
 date: '2017-02-13T13:52:00.000-08:00'
+permalink: /posts/2017/02/13/doc/
 author: Chang Liao
 tags:
 - DOC
 - GIS
 modified_time: '2018-04-03T12:18:56.895-07:00'
-thumbnail: https://4.bp.blogspot.com/-0_rTWSzwNOs/WMLNNFZHE9I/AAAAAAAAVZo/pMCJ7kSbAoQ7R9rhfGBUMuHHxACJxKu0ACLcB/s72-c/stream_transport.jpg
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-6414558098074632225
-blogger_orig_url: https://changliao.blogspot.com/2017/02/ecosystem-modeling-004.html
 ---
 
 Dissolved Organic Carbon (DOC) is an important carbon budget within ecosystem, especially for aquatic ecosystem including oceanic ecosystem.

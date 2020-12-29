@@ -2,11 +2,10 @@
  
 title: How to write a computational climate model with confidence
 date: '2017-12-31T19:54:00.000-08:00'
+permalink: /posts/2017/12/31/how-to-write-computational-climate-model/
 author: Chang Liao
 tags:
 modified_time: '2018-04-03T12:12:34.371-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-3768606601826938284
-blogger_orig_url: https://changliao.blogspot.com/2017/12/model-development-001.html
 ---
 
 I have covered many aspects of climate model related topics so far and I have also discussed quite a few examples in model development. I think it is time to warp up a post to serve as a guidance for whose who may be interested in this field.

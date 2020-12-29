@@ -2,15 +2,14 @@
  
 title: 'High performance computing: data management'
 date: '2017-04-28T23:02:00.000-07:00'
+permalink: /posts/2017/04/28/data-mangement/
 author: Chang Liao
 tags:
 - Data Management
 - HPC
 - Cluster
 modified_time: '2017-04-28T23:06:53.138-07:00'
-thumbnail: https://3.bp.blogspot.com/-VxTbGCA6EPM/WQFyP9oanJI/AAAAAAAAWeQ/Msspk3l8GMI8goLddzydB9kP_GfwvoUBQCLcB/s72-c/tree.JPG
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-2826427237579333687
-blogger_orig_url: https://changliao.blogspot.com/2017/04/high-performance-computing-005.html
+
 ---
 
 When you leave a position, such as graduation from university, you usually have to backup lots of data, which is usually considered as one critical step in data management.

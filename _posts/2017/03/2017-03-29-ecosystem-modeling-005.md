@@ -2,11 +2,10 @@
  
 title: 'Ecosystem modeling: a review on spatial resolution and lateral flow'
 date: '2017-03-29T17:01:00.002-07:00'
+permalink: /posts/2017/03/29/spatial-resolution-and-lateral-flow/
 author: Chang Liao
 tags:
 modified_time: '2018-04-03T12:19:53.980-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-4198598650102904990
-blogger_orig_url: https://changliao.blogspot.com/2017/03/ecosystem-modeling-005.html
 ---
 
 We all agree that lateral flow is important in hydrology, but why most ecosystem models do not consider lateral flow?

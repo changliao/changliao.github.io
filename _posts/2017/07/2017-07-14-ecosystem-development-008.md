@@ -2,13 +2,12 @@
  
 title: 'Ecosystem development: from process-oriented to object-oriented system'
 date: '2017-07-14T07:52:00.002-07:00'
+permalink: /posts/2017/07/14/oop-for-ecosystem/
 author: Chang Liao
 tags:
 - C++
 - Object-Oriented Programming
 modified_time: '2018-04-03T12:17:03.214-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-3180534901200593267
-blogger_orig_url: https://changliao.blogspot.com/2017/07/ecosystem-development-008.html
 ---
 
 One of my recent projects is to develop a three-dimensional coupled water and carbon cycle ecosystem model. After finished the first version of the system, I wasn't quite satisfied with the system architecture, partly due to the complexity of the system dependency.

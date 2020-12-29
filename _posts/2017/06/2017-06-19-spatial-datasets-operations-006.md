@@ -3,14 +3,12 @@
 title: 'Spatial datasets operations: a hexagon-based discrete grid systems for global
   simulation'
 date: '2017-06-19T08:24:00.001-07:00'
+permalink: /posts/2017/06/19/dggs/
 author: Chang Liao
 tags:
 - CPI
 - DGGRID
 modified_time: '2018-04-03T12:17:22.750-07:00'
-thumbnail: https://4.bp.blogspot.com/-nIM2m-WQHWo/WUfoTfHVS6I/AAAAAAAAX68/1SZtjTEem9MXY1tm_pQ6s4dd3BvkiuQNACLcBGAs/s72-c/polar.jpg
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-1324242836609927983
-blogger_orig_url: https://changliao.blogspot.com/2017/06/spatial-datasets-operations-006.html
 ---
 
 After finished my three-dimensional coupled water and carbon cycle model, I have been thinking whether I can apply this approach at large spatial domain or even global scale.

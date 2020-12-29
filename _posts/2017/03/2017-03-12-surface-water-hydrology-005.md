@@ -2,12 +2,11 @@
  
 title: 'Surface water hydrology: a reach based approach'
 date: '2017-03-12T20:44:00.001-07:00'
+permalink: /posts/2017/03/12/reach-based-surface-hydrology/
 author: Chang Liao
 tags:
 - Stream Discharge
 modified_time: '2018-04-03T12:20:13.221-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-432624172299537449
-blogger_orig_url: https://changliao.blogspot.com/2017/03/surface-water-hydrology-005.html
 ---
 
 In surface watershed hydrology, stream network is usually represented by a 
