@@ -1,3 +1,13 @@
+---
+title: 'Numerical simulation: ODE/PDE solver and spin-up'
+date: 2017-09-01
+permalink: /posts/2017/09/numerical-simulation-ode-pde-solver-and-spin-up/
+tags:
+  - ODE
+  - PDE
+  - Hydrology
+  - Numerical
+---
 For Earth Science model development, I inevitably have to deal with ODE and PDE equations. I also have come across some discussion related to this topic, i.e.,
 https://www.researchgate.net/post/What_does_one_mean_by_Model_Spin_Up_Time
 
