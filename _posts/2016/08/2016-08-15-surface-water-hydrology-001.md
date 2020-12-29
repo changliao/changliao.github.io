@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Surface water hydrology: build the relationship between river gage height
   and discharge'
 date: '2016-08-15T08:13:00.000-07:00'

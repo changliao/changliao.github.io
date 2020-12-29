@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Spatial datasets operations: When the sky is failing'
 date: '2016-09-13T13:53:00.001-07:00'
 author: Chang Liao

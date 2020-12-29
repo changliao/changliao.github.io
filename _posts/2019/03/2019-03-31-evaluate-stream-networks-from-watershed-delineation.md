@@ -1,8 +1,7 @@
 ---
-layout: post
 title: Evaluate the stream networks from watershed delineation
 date: 2019-03-31
-permalink: /posts/2019/03/evaluate-stream-networks-from-watershed-delineation/
+permalink: /posts/2019/03/31/evaluate-stream-networks-from-watershed-delineation/
 author: Chang Liao
 tags:
 - GIS

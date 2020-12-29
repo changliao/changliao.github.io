@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: Lessons I have learnt during E3SM development
 date: 2019-09-17
 permalink: /posts/2019/09/lesson-from-e3sm-development/

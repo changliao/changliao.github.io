@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Integrated groundwater and surface water modeling: restore the stream index
   relationship'
 date: '2015-10-07T09:06:00.001-07:00'

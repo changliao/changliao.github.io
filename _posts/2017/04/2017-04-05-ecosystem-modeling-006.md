@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Ecosystem modeling: model evaluation of current implementation in ECO3D 1.0'
 date: '2017-04-05T20:02:00.001-07:00'
 author: Chang Liao

@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'High Performance Computing: Download and prepare data in a batch mode'
 date: '2017-01-13T13:15:00.001-08:00'
 author: Chang Liao

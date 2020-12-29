@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: How to write a computational climate model with confidence
 date: '2017-12-31T19:54:00.000-08:00'
 author: Chang Liao

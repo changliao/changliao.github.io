@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Ecosystem modeling: how to deal with the time-variant datasets?'
 date: '2016-10-01T11:46:00.000-07:00'
 author: Chang Liao

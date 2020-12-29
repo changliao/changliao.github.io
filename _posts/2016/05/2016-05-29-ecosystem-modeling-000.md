@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Ecosystem modeling: creating hierarchical class dependency maps'
 date: '2016-05-29T09:09:00.000-07:00'
 author: Chang Liao

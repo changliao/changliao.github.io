@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: Rebuild the topology for billions of points on a sphere
 date: 2019-09-08
 permalink: /posts/2019/09/rebuild-topology-of-billion-point-on-sphere/

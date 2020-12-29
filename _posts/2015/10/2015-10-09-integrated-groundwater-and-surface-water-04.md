@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Integrated groundwater and surface water modeling: topography effects'
 date: '2015-10-09T08:16:00.000-07:00'
 author: Chang Liao

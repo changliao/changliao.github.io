@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Ecosystem modeling: the vadose zone'
 date: '2016-07-03T09:41:00.001-07:00'
 author: Chang Liao

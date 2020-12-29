@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: Quantifying the Role of Snowmelt in Stream Discharge in an Alaskan Watershed
 date: '2018-03-19T17:02:00.000-07:00'
 permalink: /posts/2018/03/paper-discussion-quantifying-the-role-of-snowmelt-in-stream-discharge-in-an-alaskan-watershed/

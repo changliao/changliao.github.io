@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'High Performance Computing: ParaFly'
 date: '2016-10-21T11:20:00.000-07:00'
 author: Chang Liao

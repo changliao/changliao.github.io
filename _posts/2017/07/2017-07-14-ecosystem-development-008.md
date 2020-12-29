@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Ecosystem development: from process-oriented to object-oriented system'
 date: '2017-07-14T07:52:00.002-07:00'
 author: Chang Liao

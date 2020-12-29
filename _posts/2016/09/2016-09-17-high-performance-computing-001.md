@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'High Performance Computing: A library of utilities'
 date: '2016-09-17T14:16:00.001-07:00'
 author: Chang Liao

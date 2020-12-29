@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: Learning in a diverse environment
 date: 2019-11-19
 permalink: /posts/2019/11/learning-in-a-diverse-environment/

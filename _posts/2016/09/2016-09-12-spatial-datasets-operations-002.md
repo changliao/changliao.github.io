@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Spatial datasets operations: From MODIS HDF to Binary file'
 date: '2016-09-12T14:49:00.001-07:00'
 author: Chang Liao

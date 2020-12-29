@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Ecosystem modeling: a look up table for system state variables'
 date: '2016-05-09T12:13:00.000-07:00'
 author: Chang Liao

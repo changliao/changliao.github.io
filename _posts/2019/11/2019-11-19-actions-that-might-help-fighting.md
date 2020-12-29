@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: Actions that might help fighting climate change
 date: 2019-11-19
 permalink: /posts/2019/11/action-to-fight-climate-change/

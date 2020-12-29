@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Scientific writing: from LaTex to BibTex'
 date: '2017-06-08T18:37:00.001-07:00'
 author: Chang Liao

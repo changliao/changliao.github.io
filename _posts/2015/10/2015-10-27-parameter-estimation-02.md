@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Parameter estimation: data format in model I/O'
 date: '2015-10-27T10:28:00.000-07:00'
 author: Chang Liao

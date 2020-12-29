@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Integrated groundwater and surface water modeling: the finite element'
 date: '2015-09-30T17:58:00.000-07:00'
 author: Chang Liao

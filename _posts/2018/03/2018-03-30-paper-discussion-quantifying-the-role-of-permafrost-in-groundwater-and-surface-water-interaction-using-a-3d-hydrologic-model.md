@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: Quantifying the role of permafrost distribution in groundwater and surface
   water interactions using a three-dimensional hydrological model
 date: '2018-03-30T17:07:00.000-07:00'

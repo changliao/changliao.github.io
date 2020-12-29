@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Differences between model calibration, evaluation, parameterization and application
 date: '2020-02-28T14:16:00.000-08:00'
 author: Chang Liao

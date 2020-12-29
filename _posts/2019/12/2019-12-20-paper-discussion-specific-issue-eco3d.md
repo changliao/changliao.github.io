@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: Paper discussion special issue the ECO3D model
 date: 2019-12-20
 permalink: /posts/2019/11/learning-in-a-diverse-environment/

@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Spatial datasets operations: From MODIS to model ready binary workflow'
 date: '2016-09-13T07:44:00.000-07:00'
 author: Chang Liao

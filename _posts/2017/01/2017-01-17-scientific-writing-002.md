@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Scientific writing: high quality scalable vector graphics'
 date: '2017-01-17T19:20:00.000-08:00'
 author: Chang Liao

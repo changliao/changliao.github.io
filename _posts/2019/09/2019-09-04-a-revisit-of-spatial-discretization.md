@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: A revisit of spatial discretization
 date: 2019-09-04
 permalink: /posts/2019/09/revisit-spatial-discretization/

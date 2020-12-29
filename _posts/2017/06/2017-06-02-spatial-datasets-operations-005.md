@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Spatial datasets operations: an overview of global climate dataset and interpolation'
 date: '2017-06-02T07:18:00.000-07:00'
 author: Chang Liao

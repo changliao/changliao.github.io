@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'High performance computing: data management'
 date: '2017-04-28T23:02:00.000-07:00'
 author: Chang Liao

@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Numerical simulation: unit system'
 date: '2016-06-29T19:20:00.000-07:00'
 author: Chang Liao

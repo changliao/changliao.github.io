@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Groundwater hydrology modeling: the relation among stream, groundwater and
   surface runoff'
 date: '2016-08-30T13:17:00.003-07:00'

@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: Some thoughts on respiration and the role of microbe
 date: '2018-04-15T19:34:00.000-07:00'
 permalink: /posts/2018/04/thoughts-on-respiration-and-role-of-microbe/

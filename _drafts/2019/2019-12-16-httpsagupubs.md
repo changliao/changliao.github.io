@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:
 date: '2019-12-16T16:46:00.000-08:00'
 author: Chang Liao

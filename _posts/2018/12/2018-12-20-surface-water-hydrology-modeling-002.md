@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: The hydrology in the real world
 date: '2018-12-20T11:35:00.000-08:00'
 permalink: /posts/2018/12/hydrology-in-reality/

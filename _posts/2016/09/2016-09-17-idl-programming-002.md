@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'IDL programming: How to design a simple program'
 date: '2016-09-17T08:43:00.002-07:00'
 author: Chang Liao

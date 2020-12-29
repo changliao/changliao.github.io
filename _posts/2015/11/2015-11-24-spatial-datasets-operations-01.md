@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Spatial datasets operations: mask raster using region of interest'
 date: '2015-11-24T17:01:00.000-08:00'
 author: Chang Liao

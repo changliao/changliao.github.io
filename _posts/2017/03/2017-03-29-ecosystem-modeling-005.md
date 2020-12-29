@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Ecosystem modeling: a review on spatial resolution and lateral flow'
 date: '2017-03-29T17:01:00.002-07:00'
 author: Chang Liao

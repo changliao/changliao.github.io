@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Ecosystem modeling: uncertainty quantification'
 date: '2017-04-23T20:29:00.000-07:00'
 author: Chang Liao

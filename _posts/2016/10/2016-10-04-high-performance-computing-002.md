@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'High Performance Computing: OpenMP and Anusplin'
 date: '2016-10-04T11:53:00.000-07:00'
 author: Chang Liao

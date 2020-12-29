@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Integrated groundwater and surface water modeling: how to make use of the
   MODFLOW Listing file'
 date: '2015-11-27T19:13:00.001-08:00'

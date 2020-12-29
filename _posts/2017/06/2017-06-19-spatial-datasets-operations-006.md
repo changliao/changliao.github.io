@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Spatial datasets operations: a hexagon-based discrete grid systems for global
   simulation'
 date: '2017-06-19T08:24:00.001-07:00'

@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Integrated groundwater and surface water modeling: the appropriate way to
   prepare the best DEM'
 date: '2016-01-25T12:46:00.000-08:00'

@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Groundwater hydrology modeling: Why it is so difficult to simulate the groundwater
   dynamics in mountain area'
 date: '2016-06-26T17:34:00.000-07:00'

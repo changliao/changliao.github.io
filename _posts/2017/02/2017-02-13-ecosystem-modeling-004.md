@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Ecosystem modeling: challenges in simulating the dissolved organic carbon '
 date: '2017-02-13T13:52:00.000-08:00'
 author: Chang Liao

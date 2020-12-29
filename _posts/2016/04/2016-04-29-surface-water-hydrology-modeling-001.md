@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Surface water hydrology modeling: deal with different types of precipitation'
 date: '2016-04-29T16:54:00.000-07:00'
 author: Chang Liao

@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Ecosystem modeling: challenges in water-carbon cycling in cold region numerical
   simulation'
 date: '2016-06-15T08:21:00.000-07:00'

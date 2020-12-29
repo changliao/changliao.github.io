@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: Hole and Boundary
 date: '2018-05-21T17:00:00.000-07:00'
 permalink: /posts/2018/05/hole-and-boundary/

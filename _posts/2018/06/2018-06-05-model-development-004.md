@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: The journey of a three-dimensional ecosystem model debugging and calibration
 date: '2018-06-05T15:06:00.000-07:00'
 permalink: /posts/2018/06/eco3d-debug-and-calibration/

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 'Scientific writing: an IDL-based publication figure library'
 date: '2016-12-05T17:36:00.000-08:00'
 author: Chang Liao

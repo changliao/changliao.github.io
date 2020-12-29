@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Surface water hydrology: snow hydrology'
 date: '2017-03-28T13:11:00.000-07:00'
 author: Chang Liao

@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Numerical simulation: ode/pde solver and spin-up'
 date: '2017-08-31T23:08:00.000-07:00'
 author: Chang Liao

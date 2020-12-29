@@ -1,5 +1,5 @@
 ---
-layout: post
+ 
 title: 'Integrated groundwater and surface water modeling: spatial discretization'
 date: '2015-10-08T06:37:00.000-07:00'
 author: Chang Liao
