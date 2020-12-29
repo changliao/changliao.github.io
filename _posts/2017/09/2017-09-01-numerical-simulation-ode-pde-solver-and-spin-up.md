@@ -31,9 +31,14 @@ However, even for iterative solver, it can take a long computing time to find a 
 
 Regardless of the initial condition, the system will gradually converge to "steady state". For example, regardless how much water is stored in the tank initially, the water will reach the same level after certain time when inflow equals outflow.
 
+![Figure 2](https://github.com/changliao/changliao.github.io/blob/main/_figure/water_tank.png?raw=true)
 You can easily setup much complicated scenarios similar to:
 
+![Figure 3](https://github.com/changliao/changliao.github.io/blob/main/_figure/ode-pde.png?raw=true)
+
 When you have multiple pools and flux terms, the system may become very sensitive to certain parameters.
+
+![Figure 4](https://github.com/changliao/changliao.github.io/blob/main/_figure/ode-simulator.gif?raw=true)
 
 Illustration of ODE with 8 buckets. Each bucket is contributing water into other buckets at different rates. Each bucket has different storage capacity and radius.
 
@@ -44,8 +49,7 @@ The criteria which is used to determine whether the system is in "steady state" 
 
 Because of the complexity of the system, a spin-up can be trapped inside a local valley/hilltop similar to:
 
-
-
+![Figure 5](https://github.com/changliao/changliao.github.io/blob/main/_figure/global_optimization.png?raw=true)
 
 In this case, our "criteria" must be carefully defined, but that is out of the scope of this discussion.
 
