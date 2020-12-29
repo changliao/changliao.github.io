@@ -9,9 +9,6 @@ tags:
 - PRMS
 - SWAT
 modified_time: '2019-09-18T10:49:40.068-07:00'
-thumbnail: https://4.bp.blogspot.com/-Q12F-KpAIQ8/WIPWzRA4L-I/AAAAAAAAUgs/QQh9sJu8_j0N1KTNe29yZ8RAc33QvCijwCLcB/s72-c/snow_or_rain.jpg
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-7514953489820814314
-blogger_orig_url: https://changliao.blogspot.com/2016/04/surface-water-hydrology-modeling-001.html
 ---
 
 <span style="font-family: inherit;">In surface water hydrology, precipitation 

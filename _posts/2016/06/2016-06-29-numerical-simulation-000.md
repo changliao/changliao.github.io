@@ -6,8 +6,6 @@ author: Chang Liao
 tags:
 - NCDC
 modified_time: '2018-04-03T12:21:33.257-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-7624787636918173850
-blogger_orig_url: https://changliao.blogspot.com/2016/06/numerical-simulation-000.html
 ---
 
 Unit is always one of the most important factors in science. Most of the time, 
@@ -45,8 +43,8 @@ you can always convert the units before actual calculations, and convert them
 back to SI afterwards. 
 
 Below is the unit system used in one of my recent projects: 
-<table border="1" bordercolor="black" cellpadding="3" cellspacing="3" 
-style="background-color: white; width: 
-100%;"><th>Data</th><th>Unit</th><th>Note</th><td>Temperature<td>Fahrenheit<td>It 
-could be reproduced in Kelvin<td>Precipitation<td>Millimeter<td><td>Dewpoint 
-temperature<td>Fahrenheit<td> 
+|         Data         |    Unit    |               Note               |
+|:--------------------:|:----------:|:--------------------------------:|
+| Temperature          | Fahrenheit | It could be reproduced in Kelvin |
+| Precipitation        | Millimeter |                                  |
+| Dewpoint temperature | Fahrenheit |                                  |

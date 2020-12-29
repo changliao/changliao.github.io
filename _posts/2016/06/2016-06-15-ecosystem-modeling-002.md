@@ -9,8 +9,6 @@ tags:
 - Arctic
 - DOC
 modified_time: '2018-04-03T12:22:19.318-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-5944234681690039234
-blogger_orig_url: https://changliao.blogspot.com/2016/06/ecosystem-modeling-002.html
 ---
 
 Numerical simulation of water and carbon cycling in cold region usually 
