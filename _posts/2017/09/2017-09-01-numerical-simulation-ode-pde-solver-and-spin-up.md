@@ -45,7 +45,7 @@ You can easily setup much complicated scenarios similar to:
 
 When you have multiple pools and flux terms, the system may become very sensitive to certain parameters.
 
-![Figure 4](https://github.com/changliao/changliao.github.io/blob/main/_figure/ode-simulator.gif?raw=true)
+![Figure 4](https://github.com/changliao/changliao.github.io/blob/main/_figure/ode_simulator.gif?raw=true)
 
 Illustration of ODE with 8 buckets. Each bucket is contributing water into other buckets at different rates. Each bucket has different storage capacity and radius.
 
