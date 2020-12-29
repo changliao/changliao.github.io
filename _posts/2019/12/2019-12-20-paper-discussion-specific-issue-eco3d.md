@@ -28,10 +28,12 @@ From 1D to 3D means that each grid is aware of its neighborhood. More importantl
 
 To put it in the model language, traditionally, each grid is isolated from others, so water and carbon budget are calculated in each grid independently. In 3D, a grid can send or receive some water and carbon from neighborhood. It’s like a grid at mountain valley can receive water from mountain ridge. Isn’t that making much more sense?
 On land, each grid cell can connect to its 4/6/8 neighbors:
+
 ![Figure 1](https://github.com/changliao/changliao.github.io/blob/main/_figure/flow_cascade.jpg?raw=true)
 
 
 They can also connect with river:
+
 ![Figure 2](https://github.com/changliao/changliao.github.io/blob/main/_figure/land_river_interaction.jpg?raw=true)
 
 

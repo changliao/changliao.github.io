@@ -68,9 +68,7 @@ different, but the principle is the same.
 Then, go to the path you specified and create you startup file. A simple 
 example of mine is as follow: 
 
-[<img border="0" 
-src="https://4.bp.blogspot.com/-vzSW0w8Y0fU/VjK73hpdVAI/AAAAAAAALsY/rtstYJ0_rXA/s640/startup.JPG" 
-/>](http://4.bp.blogspot.com/-vzSW0w8Y0fU/VjK73hpdVAI/AAAAAAAALsY/rtstYJ0_rXA/s1600/startup.JPG) 
+![Figure 2](https://github.com/changliao/changliao.github.io/blob/main/_figure/idl_startup.jpg?raw=true)
 
 
 The most important line within this startup file is the !PATH variable, which 
