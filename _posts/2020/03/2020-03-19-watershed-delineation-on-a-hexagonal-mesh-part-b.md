@@ -16,10 +16,12 @@ What follows is something I should have learned if my major was hydrology. Even 
 But when we decided to try this on a different mesh grid, a lot of details start to emerge, and through which we also learned a lot.
 
 The overall workflow is pretty simple:
+
 ![Figure 1](https://github.com/changliao/changliao.github.io/blob/main/_figure/hexwatershed_workflow.png?raw=true)
 
 But because the grid is different, we made several improvements.
 First,  we need a new index system, and we need to rebuild the neighbor information.
+
 ![Figure 2](https://github.com/changliao/changliao.github.io/blob/main/_figure/hexagon_topology.png?raw=true)
 
 
@@ -28,12 +30,17 @@ We also need to do the depression filling, here we used the priority flooding me
 
 
 After this, we are able to calculate the flow direction, for example:
+
 ![Figure 4](https://github.com/changliao/changliao.github.io/blob/main/_figure/cbf_flow_direction_90_zoom.png?raw=true)
 
 As well as flow accumulation:
+
 ![Figure 5](https://github.com/changliao/changliao.github.io/blob/main/_figure/tinpan_flow_accumulation_30_zoom.png?raw=true)
+
 Last, I'd like to illustrate how this method fixes some headache for many of us:
+
 ![Figure 6](https://github.com/changliao/changliao.github.io/blob/main/_figure/tinpan30_square.png?raw=true)
+
 ![Figure 7](https://github.com/changliao/changliao.github.io/blob/main/_figure/tinpan30_hexagon.png?raw=true)
 
 
