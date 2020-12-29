@@ -2,7 +2,7 @@
  
 title: The journey of a three-dimensional ecosystem model debugging and calibration
 date: '2018-06-05T15:06:00.000-07:00'
-permalink: /posts/2018/06/eco3d-debug-and-calibration/
+permalink: /posts/2018/06/05/eco3d-debug-and-calibration/
 author: Chang Liao
 tags:
 - Model Calibration
@@ -12,8 +12,6 @@ tags:
 - OpenMP
 - Totalview
 modified_time: '2018-06-05T17:17:46.775-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-7219511816372552984
-blogger_orig_url: https://changliao.blogspot.com/2018/06/model-development-004.html
 ---
 
 Currently I am working on the model development, debugging and calibration of the ECO3D model.

@@ -2,7 +2,7 @@
  
 title: From watershed to global
 date: '2018-07-31T10:59:00.001-07:00'
-permalink: /posts/2018/07/from-watershed-to-global/
+permalink: /posts/2018/07/31/from-watershed-to-global/
 author: Chang Liao
 tags:
 - ECOGlobe

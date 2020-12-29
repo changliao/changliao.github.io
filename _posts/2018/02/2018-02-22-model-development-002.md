@@ -2,13 +2,11 @@
  
 title: Another thought on Earth System Model challenge
 date: '2018-02-22T17:10:00.000-08:00'
-permalink: /posts/2018/12/another-thought-on-earth-system-modeling-challenge/
+permalink: /posts/2018/02/22/another-thought-on-earth-system-modeling-challenge/
 author: Chang Liao
 tags:
 - System Architecture
 modified_time: '2018-04-27T15:50:37.178-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-7982991409561417787
-blogger_orig_url: https://changliao.blogspot.com/2018/02/model-development-002.html
 ---
 
 I recent had several discussions with several friends on various topics. Such as whether improving one component with an Earth System Model (ESM) necessarily improve the overall performance.

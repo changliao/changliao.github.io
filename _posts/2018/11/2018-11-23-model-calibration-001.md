@@ -2,7 +2,7 @@
  
 title: A modern way of automate calibration of a hydrologic model
 date: '2018-11-23T00:06:00.000-08:00'
-permalink: /posts/2018/11/modern-way-automate-calibration/
+permalink: /posts/2018/11/23/modern-way-automate-calibration/
 author: Chang Liao
 tags:
 - Model Calibration
@@ -10,9 +10,6 @@ tags:
 - PEST
 - SWAT
 modified_time: '2019-01-17T17:22:52.356-08:00'
-thumbnail: https://1.bp.blogspot.com/-uZpEf9f3jrU/XEEmg5bm2kI/AAAAAAAAwYo/_Xc3ZY6PmNc5Nm6FUVq2oAvT4j_AzlFAACLcBGAs/s72-c/interface.png
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-3571558200441514084
-blogger_orig_url: https://changliao.blogspot.com/2018/11/model-calibration-001.html
 ---
 
 Calibration of hydrologic model can be tedious, that is why we spent great efforts to automate this process. And sometimes we need some tool that is universal, reusable, so that we don't have to re-invent the wheel again and again.

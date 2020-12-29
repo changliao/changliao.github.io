@@ -3,7 +3,7 @@
 title: Quantifying the role of permafrost distribution in groundwater and surface
   water interactions using a three-dimensional hydrological model
 date: '2018-03-30T17:07:00.000-07:00'
-permalink: /posts/2018/03/paper-discussion-quantifying-the-role-of-permafrost-in-groundwater-and-surface-water-interaction-using-a-3d-hydrologic-model/
+permalink: /posts/2018/03/30/paper-discussion-quantifying-the-role-of-permafrost-in-groundwater-and-surface-water-interaction-using-a-3d-hydrologic-model/
 author: Chang Liao
 tags:
 - Groundwater Modeling
