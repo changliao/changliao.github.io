@@ -41,7 +41,7 @@ Regardless of the initial condition, the system will gradually converge to "stea
 ![Figure 2](https://github.com/changliao/changliao.github.io/blob/main/_figure/water_tank.png?raw=true)
 You can easily setup much complicated scenarios similar to:
 
-![Figure 3](https://github.com/changliao/changliao.github.io/blob/main/_figure/ode-pde.png?raw=true)
+![Figure 3](https://github.com/changliao/changliao.github.io/blob/main/_figure/ode_pde.png?raw=true)
 
 When you have multiple pools and flux terms, the system may become very sensitive to certain parameters.
 
