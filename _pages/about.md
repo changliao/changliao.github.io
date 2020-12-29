@@ -18,7 +18,7 @@ I also write technical articles at
 I developed models and tools to understand Earth system.
 
 - 🔭 I’m currently working on DOE's E3SM model
-- 🌱 I’m currently learning Hilbert Space, Graphy Theory and GPU
+- 🌱 I’m currently learning Hilbert Space, Graph Theory and GPU
 - 👯 I’m looking to collaborate on hydrology related projects
 - 🤔 I’m looking for help with math and physics
 - 💬 Ask me about high performance computing, hydrology and RS/GIS.
