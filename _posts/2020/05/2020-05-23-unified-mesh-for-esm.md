@@ -23,6 +23,8 @@ Also, our hydrologic processes interact with various components (lake, river, oc
 Can we really use the existing method directly on a global scale? Yes and No. We have already seen many cases. But they are far from what we need. 
 
 For example, we cannot fix the land and ocean interaction:
+![Figure 1](https://github.com/changliao/changliao.github.io/blob/main/_figure/land_ocean.png?raw=true)
+
 
 Besides, we cannot include Greenland and Antarctic in the global simulation.
 
