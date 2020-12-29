@@ -1,7 +1,7 @@
 ---
 title: 'Tips for ArcSWAT issue'
 date: 2019-02-28
-permalink: /posts/2019/02/tips-for-arcswat-issue/
+permalink: /posts/2019/02/28/tips-for-arcswat-issue/
 tags:
     - ArcGIS
     - ArcSWAT

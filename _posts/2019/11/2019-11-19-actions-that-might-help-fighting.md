@@ -2,13 +2,11 @@
  
 title: Actions that might help fighting climate change
 date: 2019-11-19
-permalink: /posts/2019/11/action-to-fight-climate-change/
+permalink: /posts/2019/11/19/action-to-fight-climate-change/
 author: Chang Liao
 tags:
 - Climate Change
 modified_time: '2019-11-19T00:28:03.968-08:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-2483855932763368103
-blogger_orig_url: https://changliao.blogspot.com/2019/11/actions-that-might-help-fighting.html
 ---
 
 As an Earth science researcher, I talk a lot about climate change. But most of time I was basically sending message stating that climate change is real and bad. I didn't spend much time thinking and explaining what should we do to battle climate change.

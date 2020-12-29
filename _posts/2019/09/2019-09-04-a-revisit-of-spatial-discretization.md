@@ -2,13 +2,12 @@
  
 title: A revisit of spatial discretization
 date: 2019-09-04
-permalink: /posts/2019/09/revisit-spatial-discretization/
+permalink: /posts/2019/09/04/revisit-spatial-discretization/
 author: Chang Liao
 tags:
 - Spatial Discretization
 modified_time: '2019-09-04T15:45:43.363-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-584062623971820911
-blogger_orig_url: https://changliao.blogspot.com/2019/09/a-revisit-of-spatial-discretization.html
+
 ---
 
 Discretization by definition from Wikipedia: In applied mathematics, discretization is the process of transferring continuous functions, models, variables, and equations into discrete counterparts. This process is usually carried out as a first step toward making them suitable for numerical evaluation and implementation on digital computers.

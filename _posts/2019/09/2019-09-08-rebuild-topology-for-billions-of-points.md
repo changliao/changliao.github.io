@@ -2,7 +2,7 @@
  
 title: Rebuild the topology for billions of points on a sphere
 date: 2019-09-08
-permalink: /posts/2019/09/rebuild-topology-of-billion-point-on-sphere/
+permalink: /posts/2019/09/08/rebuild-topology-of-billion-point-on-sphere/
 author: Chang Liao
 tags:
 modified_time: '2019-09-08T12:16:34.842-07:00'

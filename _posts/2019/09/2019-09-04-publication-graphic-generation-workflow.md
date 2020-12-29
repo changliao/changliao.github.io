@@ -2,7 +2,7 @@
  
 title: Publication graphic generation workflow
 date: 2019-09-04
-permalink: /posts/2019/09/publication-graphic-generation-workflow/
+permalink: /posts/2019/09/04/publication-graphic-generation-workflow/
 author: Chang Liao
 tags:
 - Graphics
