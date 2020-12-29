@@ -11,9 +11,7 @@ tags:
 - ESM
 - Lake
 modified_time: '2018-12-20T11:35:45.297-08:00'
-thumbnail: https://2.bp.blogspot.com/-1LGwiKKcmgM/W-IoPAUByDI/AAAAAAAAvhg/IsE7EUPz5xANlZBw1v0yJvVgcwTckIZ5gCLcBGAs/s72-c/lake_stream.png
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-4034854503329152695
-blogger_orig_url: https://changliao.blogspot.com/2018/12/surface-water-hydrology-modeling-002.html
+
 ---
 
 Below is a region of interest from Global Lakes and Wetlands Database (link). 
