@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Develop Python scripts cross platform
-date: '2019-10-14T11:41:00.001-07:00'
+date: '2019-10-14'
 permalink: /posts/2019/10/develop-python-script-cross-platform/
 author: Chang Liao
 tags:

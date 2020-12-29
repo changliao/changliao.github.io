@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Actions that might help fighting climate change
-date: '2019-11-19T00:28:00.000-08:00'
+date: 2019-11-19
 permalink: /posts/2019/11/action-to-fight-climate-change/
 author: Chang Liao
 tags:

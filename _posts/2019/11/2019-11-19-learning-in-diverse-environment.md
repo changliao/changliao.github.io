@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning in a diverse environment
-date: '2019-11-19T00:23:00.000-08:00'
+date: 2019-11-19
 permalink: /posts/2019/11/learning-in-a-diverse-environment/
 author: Chang Liao
 tags:
