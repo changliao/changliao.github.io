@@ -1,6 +1,6 @@
 ---
 title: SWAT-MODFLOW stream flow routing problem
-date: '2019-03-01T16:03:00.001-08:00'
+date: 2019-03-01
 permalink: /posts/2019/03/swat-modflow-stream-routing-issue/
 author: Chang Liao
 tags:
