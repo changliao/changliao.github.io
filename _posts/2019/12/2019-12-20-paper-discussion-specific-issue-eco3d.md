@@ -2,6 +2,7 @@
 layout: post
 title: Paper discussion special issue the ECO3D model
 date: '2019-12-20T20:04:00.003-08:00'
+permalink: /posts/2019/11/learning-in-a-diverse-environment/
 author: Chang Liao
 tags:
 - DOC

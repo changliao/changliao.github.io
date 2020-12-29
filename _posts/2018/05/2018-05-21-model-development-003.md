@@ -2,13 +2,12 @@
 layout: post
 title: Hole and Boundary
 date: '2018-05-21T17:00:00.000-07:00'
+permalink: /posts/2018/05/hole-and-boundary/
 author: Chang Liao
 tags:
 - Boundary
 - Spatial Discretization
 modified_time: '2018-05-24T13:13:00.901-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-321035658140862055
-blogger_orig_url: https://changliao.blogspot.com/2018/05/model-development-003.html
 ---
 
 We sometimes do not understand well enough of what we are dealing with in our daily life.

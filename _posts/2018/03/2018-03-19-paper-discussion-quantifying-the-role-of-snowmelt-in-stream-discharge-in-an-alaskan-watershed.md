@@ -2,15 +2,14 @@
 layout: post
 title: Quantifying the Role of Snowmelt in Stream Discharge in an Alaskan Watershed
 date: '2018-03-19T17:02:00.000-07:00'
+permalink: /posts/2018/03/paper-discussion-quantifying-the-role-of-snowmelt-in-stream-discharge-in-an-alaskan-watershed/
 author: Chang Liao
 tags:
 - Snow
 - Publication
 - PRMS
 modified_time: '2018-04-03T12:11:17.538-07:00'
-thumbnail: https://4.bp.blogspot.com/-bI45SHeF-Pc/WrBN37LHLcI/AAAAAAAAf_c/kk3EJsQfktAjbEV9-JIpj9EP-x3xoIi4QCLcBGAs/s72-c/figure1.jpg
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-7054336749878712942
-blogger_orig_url: https://changliao.blogspot.com/2018/03/paper-discussion-001.html
+
 ---
 
 Inspired by fellow science social on publication and citation, I decided to write a few short introduction posts on my recent publications.

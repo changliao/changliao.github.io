@@ -2,6 +2,7 @@
 layout: post
 title: Lessons I have learnt during E3SM development
 date: '2019-09-17T17:19:00.000-07:00'
+permalink: /posts/2019/09/lesson-from-e3sm-development/
 author: Chang Liao
 tags:
 - ELM
@@ -9,8 +10,6 @@ tags:
 - Snow
 - Software Engineer
 modified_time: '2019-11-15T10:11:54.868-08:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-7044368689739765316
-blogger_orig_url: https://changliao.blogspot.com/2019/09/lessons-i-have-learnt-during-e3sm.html
 ---
 
 

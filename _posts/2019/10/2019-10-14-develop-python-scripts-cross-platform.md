@@ -2,14 +2,13 @@
 layout: post
 title: Develop Python scripts cross platform
 date: '2019-10-14T11:41:00.001-07:00'
+permalink: /posts/2019/10/develop-python-script-cross-platform/
 author: Chang Liao
 tags:
 - Python
 - HPC
 modified_time: '2019-10-14T11:57:20.509-07:00'
-thumbnail: https://1.bp.blogspot.com/-Nz5KrmvEsJw/XaTDjXg0DeI/AAAAAAAA4kg/UHwhK2xB4H0ln_ShSybujc6BATJPGrcZwCLcBGAsYHQ/s72-c/01.jpg
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-839930796884516868
-blogger_orig_url: https://changliao.blogspot.com/2019/10/develop-python-scripts-cross-platform.html
+
 ---
 
 

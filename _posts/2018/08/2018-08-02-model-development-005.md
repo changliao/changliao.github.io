@@ -2,6 +2,7 @@
 layout: post
 title: A visual decomposition of the land grid in the E3SM/CESM model
 date: '2018-08-02T14:59:00.003-07:00'
+permalink: /posts/2018/08/elm-grid-decomposition/
 author: Chang Liao
 tags:
 - ELM

@@ -2,11 +2,10 @@
 layout: post
 title: Rebuild the topology for billions of points on a sphere
 date: '2019-09-08T12:16:00.000-07:00'
+permalink: /posts/2019/09/rebuild-topology-of-billion-point-on-sphere/
 author: Chang Liao
 tags:
 modified_time: '2019-09-08T12:16:34.842-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-3247815146666452281
-blogger_orig_url: https://changliao.blogspot.com/2019/09/rebuild-topology-for-billions-of-points.html
 ---
 
 One of my projects requires an index system for a DGGS alike system with topology information.

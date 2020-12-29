@@ -2,14 +2,12 @@
 layout: post
 title: Evaluate the stream networks from watershed delineation
 date: '2019-03-31T22:55:00.000-07:00'
+permalink: /posts/2019/03/evaluate-stream-networks-from-watershed-delineation/
 author: Chang Liao
 tags:
 - GIS
 - Watershed Hydrology
 modified_time: '2019-03-31T22:59:39.424-07:00'
-thumbnail: https://1.bp.blogspot.com/-2fgsIarcOF4/XKGicF1EeMI/AAAAAAAAxxQ/c4an-Wf4IOYO8SstliMMn2Hzr8SvL3KpQCLcBGAs/s72-c/stream.png
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-3032384713433663719
-blogger_orig_url: https://changliao.blogspot.com/2019/04/watershed-hydrology-001.html
 ---
 
 Recently I asked a question on the GIS Exchange site:
@@ -24,7 +22,9 @@ So we set out trying to find ways to evaluate the results.
 The first thing as a watershed hydrologist will usually do is to look at the stream segments. If they match up with actual stream lines then it means the model is not bad.
 
 However, both our method and the previous method can produce similar stream segment results. The the question is how can we say which one is better than the other one.
+
 ![Figure 1](https://github.com/changliao/changliao.github.io/blob/main/_figure/stream_networks_evaluation.png?raw=true)
+
 ![Figure 2](https://github.com/changliao/changliao.github.io/blob/main/_figure/depression_filling_algorithm.png?raw=true)
 
 So we did some research online, and most publications used visual results as proof. Basically,  we literally "see" the differences between different models.

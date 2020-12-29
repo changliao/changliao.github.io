@@ -2,6 +2,7 @@
 layout: post
 title: Some review on the fate of dissolved organic carbon in terrestrial ecosystem
 date: '2018-07-12T11:27:00.000-07:00'
+permalink: /posts/2018/07/review-on-terrestrial-ecosystem-doc/
 author: Chang Liao
 tags:
 - Hydrology

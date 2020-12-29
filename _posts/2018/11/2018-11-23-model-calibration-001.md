@@ -2,6 +2,7 @@
 layout: post
 title: A modern way of automate calibration of a hydrologic model
 date: '2018-11-23T00:06:00.000-08:00'
+permalink: /posts/2018/11/modern-way-automate-calibration/
 author: Chang Liao
 tags:
 - Model Calibration

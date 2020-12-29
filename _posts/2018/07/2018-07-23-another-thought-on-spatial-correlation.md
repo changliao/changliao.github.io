@@ -2,6 +2,7 @@
 layout: post
 title: Another thought on spatial correlation between two spatial datasets
 date: '2018-07-23T18:46:00.000-07:00'
+permalink: /posts/2018/07/thoughts-on-spatial-correlation/
 author: Chang Liao
 tags:
 modified_time: '2018-07-23T18:46:52.114-07:00'

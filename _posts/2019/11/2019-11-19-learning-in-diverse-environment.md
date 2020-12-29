@@ -2,14 +2,13 @@
 layout: post
 title: Learning in a diverse environment
 date: '2019-11-19T00:23:00.000-08:00'
+permalink: /posts/2019/11/learning-in-a-diverse-environment/
 author: Chang Liao
 tags:
 - Bash
 - CIME
 - Python
 modified_time: '2019-11-19T00:23:31.483-08:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-8914027962889983950
-blogger_orig_url: https://changliao.blogspot.com/2019/11/learning-in-diverse-environment.html
 ---
 
 Asking for help sometimes can save your life. But how, where, when ask for 

@@ -2,6 +2,7 @@
 layout: post
 title: SWAT-MODFLOW stream flow routing problem
 date: '2019-03-01T16:03:00.001-08:00'
+permalink: /posts/2019/03/swat-modflow-stream-routing-issue/
 author: Chang Liao
 tags:
 - MODFLOW
@@ -9,8 +10,6 @@ tags:
 - PRMS
 - SWAT
 modified_time: '2019-03-12T17:04:43.422-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-942483677787690714
-blogger_orig_url: https://changliao.blogspot.com/2019/03/integrated-groundwater-and-surface-water-01.html
 ---
 
 Surface water hydrology and groundwater hydrology are coupled together in natural ecosystem. While it is easy to say so, it is not easy to model both of them simultaneously.

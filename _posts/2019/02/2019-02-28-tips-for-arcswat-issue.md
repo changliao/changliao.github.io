@@ -2,16 +2,15 @@
 layout: post
 title: Tips for ArcSWAT issue
 date: '2019-02-28T11:53:00.000-08:00'
+permalink: /posts/2019/02/tips-for-arcswat-issue/
 author: Chang Liao
 tags:
 - ArcGIS
 - ArcSWAT
 - SWAT
 modified_time: '2019-02-28T16:03:46.127-08:00'
-thumbnail: https://4.bp.blogspot.com/-oRfpVkxyTyw/XHgwbb4JsjI/AAAAAAAAxZg/TOiMy0wk5Nchxpl2Hg4nnp4K6E0WAeMbwCEwYBhgL/s72-c/watershed_error.png
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-4554501018624687272
-blogger_orig_url: https://changliao.blogspot.com/2019/02/swat-001.html
 ---
+
 I have to use ArcSWAT to prepare some SWAT model simulation inputs. And the experience wasn't exactly good (maybe we need a different tool to do this the right way).
 
 Below I listed a few issues I have encountered and potentially fixed:

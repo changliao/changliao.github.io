@@ -2,6 +2,7 @@
 layout: post
 title: Another thought on Earth System Model challenge
 date: '2018-02-22T17:10:00.000-08:00'
+permalink: /posts/2018/12/another-thought-on-earth-system-modeling-challenge/
 author: Chang Liao
 tags:
 - System Architecture

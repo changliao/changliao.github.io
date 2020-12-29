@@ -2,6 +2,7 @@
 layout: post
 title: Publication graphic generation workflow
 date: '2019-09-04T15:46:00.002-07:00'
+permalink: /posts/2019/09/publication-graphic-generation-workflow/
 author: Chang Liao
 tags:
 - Graphics

@@ -2,6 +2,7 @@
 layout: post
 title: The problem of geographic coordinate system in global scale simulation
 date: '2018-08-11T14:13:00.000-07:00'
+permalink: /posts/2018/08/geographic-coordinate-system/
 author: Chang Liao
 tags:
 - Google Map

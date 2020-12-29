@@ -1,7 +1,7 @@
 ---
 title: 'Visualization of HexWatershed model results'
 date: 2020-09-29
-permalink: /posts/2009/09/visualization-hexwatershed-model-results/
+permalink: /posts/2020/09/visualization-hexwatershed-model-results/
 tags:
   - HexWatershed
   - Watershed

@@ -3,15 +3,14 @@ layout: post
 title: Quantifying the role of permafrost distribution in groundwater and surface
   water interactions using a three-dimensional hydrological model
 date: '2018-03-30T17:07:00.000-07:00'
+permalink: /posts/2018/03/paper-discussion-quantifying-the-role-of-permafrost-in-groundwater-and-surface-water-interaction-using-a-3d-hydrologic-model/
 author: Chang Liao
 tags:
 - Groundwater Modeling
 - MODFLOW
 - Groundwater
 modified_time: '2018-08-17T15:27:58.317-07:00'
-thumbnail: https://1.bp.blogspot.com/-diau2w8atl8/Wr7J4iBRzsI/AAAAAAAAgL4/SlEVVy853U0dvhayfs__lDcugkseDS0NACLcBGAs/s72-c/figure3b.jpg
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-821426278144995144
-blogger_orig_url: https://changliao.blogspot.com/2018/03/paper-discussion-002.html
+
 ---
 
 Following my earlier post on promoting my research, this is the second study that I conducted in an attempt to understand the hydrology processes in high latitudes.
