@@ -1,12 +1,11 @@
 ---
-title: Tips for ArcSWAT issue
-date: '2019-02-28T11:53:00.000-08:00'
+title: 'Tips for ArcSWAT issue'
+date: 2019-02-28
 permalink: /posts/2019/02/tips-for-arcswat-issue/
 tags:
-- ArcGIS
-- ArcSWAT
-- SWAT
-modified_time: '2019-02-28T16:03:46.127-08:00'
+    - ArcGIS
+    - ArcSWAT
+    - SWAT
 ---
 
 I have to use ArcSWAT to prepare some SWAT model simulation inputs. And the experience wasn't exactly good (maybe we need a different tool to do this the right way).
