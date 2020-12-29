@@ -2,6 +2,7 @@
  
 title: 'Ecosystem modeling: a question of chicken or eggs?'
 date: '2016-06-02T07:31:00.001-07:00'
+permalink: /posts/2016/06/02/ecosystem-question
 author: Chang Liao
 tags:
 - CLM

@@ -2,6 +2,7 @@
  
 title: 'Scientific writing: how to prepare a good image figure'
 date: '2016-03-25T14:11:00.001-07:00'
+permalink: /posts/2016/03/25/scientific-graphics/
 author: Chang Liao
 tags:
 - Image

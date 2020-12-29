@@ -2,6 +2,7 @@
  
 title: 'Surface water hydrology modeling: deal with different types of precipitation'
 date: '2016-04-29T16:54:00.000-07:00'
+permalink: /posts/2016/04/29/snow-or-rain
 author: Chang Liao
 tags:
 - Precipitation

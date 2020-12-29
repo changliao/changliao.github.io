@@ -3,6 +3,7 @@
 title: 'Groundwater hydrology modeling: Why it is so difficult to simulate the groundwater
   dynamics in mountain area'
 date: '2016-06-26T17:34:00.000-07:00'
+permalink: /posts/2016/06/26/groundwater-mountain-region
 author: Chang Liao
 tags:
 modified_time: '2018-04-03T12:21:49.699-07:00'

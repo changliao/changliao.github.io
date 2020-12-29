@@ -3,6 +3,7 @@
 title: 'Groundwater hydrology modeling: relation between steady state and transient
   simulation in MODFLOW simulation'
 date: '2016-04-29T17:15:00.001-07:00'
+permalink: /posts/2016/04/29/modflow-steady-state
 author: Chang Liao
 tags:
 - MODFLOW

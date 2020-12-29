@@ -2,6 +2,7 @@
  
 title: 'IDL programming: control variables in IDL across routines'
 date: '2016-01-31T21:17:00.001-08:00'
+permalink: /posts/2016/01/31/idl-global/
 author: Chang Liao
 tags:
 - C++

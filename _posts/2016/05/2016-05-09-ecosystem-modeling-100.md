@@ -2,11 +2,10 @@
  
 title: 'Ecosystem modeling: a look up table for system state variables'
 date: '2016-05-09T12:13:00.000-07:00'
+permalink: /posts/2016/05/09/eco3d-lookup-table
 author: Chang Liao
 tags:
 modified_time: '2018-04-03T12:23:09.924-07:00'
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-3648942652294377948
-blogger_orig_url: https://changliao.blogspot.com/2016/05/ecosystem-modeling-100.html
 ---
 
 A list of variables has been established to describe the ecosystem system 

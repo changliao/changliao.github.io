@@ -3,14 +3,12 @@
 title: 'Surface water hydrology modeling: scaling issue in Precipitation Runoff Modeling
   System(PRMS)'
 date: '2016-04-29T21:28:00.000-07:00'
+permalink: /posts/2016/03/25/scaling-issue
 author: Chang Liao
 tags:
 - CRT
 - PRMS
 modified_time: '2018-04-03T12:15:56.911-07:00'
-thumbnail: https://4.bp.blogspot.com/-4-HesCLrZ2I/VD88vBJ2alI/AAAAAAAAZOg/-qprjUn4ttk/s72-c/crv.png
-blogger_id: tag:blogger.com,1999:blog-5219825485683920737.post-2008361363063983910
-blogger_orig_url: https://changliao.blogspot.com/2016/04/surface-water-hydrology-modeling-002.html
 ---
 
 Grid-based HRU network for stream routing in PRMS could be convenient for several reasons.
