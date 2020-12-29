@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Develop Python scripts cross platform
 date: 2019-10-14
 permalink: /posts/2019/10/develop-python-script-cross-platform/
@@ -8,7 +7,6 @@ tags:
 - Python
 - HPC
 modified_time: '2019-10-14T11:57:20.509-07:00'
-
 ---
 
 
