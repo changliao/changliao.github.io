@@ -1,7 +1,7 @@
 ---
 title: 'A review on litter decomposition modeling'
 date: 2020-01-11
-permalink: /posts/2020/01/review-on-litter-decomposition-modeling/
+permalink: /posts/2020/01/11/review-on-litter-decomposition-modeling/
 tags:
   - litter decomposition
   - modeling

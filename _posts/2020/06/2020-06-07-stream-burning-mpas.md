@@ -1,7 +1,7 @@
 ---
 title: 'Streaming burning on MPAS mesh'
 date: 2020-07-07
-permalink: /posts/2020/06/stream-burning-on-mpas-mesh/
+permalink: /posts/2020/06/07/stream-burning-on-mpas-mesh/
 tags:
   - HexWatershed
   - Watershed

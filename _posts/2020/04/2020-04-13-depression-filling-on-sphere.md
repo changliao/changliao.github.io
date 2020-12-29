@@ -1,7 +1,7 @@
 ---
 title: 'Depression filling on a sphere'
 date: 2020-04-13
-permalink: /posts/2020/04/depression-filling-on-a-sphere/
+permalink: /posts/2020/04/13/depression-filling-on-a-sphere/
 tags:
   - Hydrology
   - Depression filling

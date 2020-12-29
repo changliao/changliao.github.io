@@ -1,7 +1,7 @@
 ---
 title: 'A workflow for distributed parallel data analysis on HPC with checkpoint'
 date: 2020-01-19
-permalink: /posts/2020/01/workflow-for-distributed-parallel-data-analysis-on-hpc-with-checkpoint/
+permalink: /posts/2020/01/19/workflow-for-distributed-parallel-data-analysis-on-hpc-with-checkpoint/
 tags:
   - HPC
   - Checkpoint

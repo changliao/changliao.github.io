@@ -1,7 +1,7 @@
 ---
 title: 'The first global river routing based on HexWatershed'
 date: 2020-09-29
-permalink: /posts/2020/09/global-river-routing-based-on-hexwatershed/
+permalink: /posts/2020/09/29/global-river-routing-based-on-hexwatershed/
 tags:
   - HexWatershed
   - Watershed

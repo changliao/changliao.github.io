@@ -1,7 +1,7 @@
 ---
 title: 'The life span of a project'
 date: 2020-01-25
-permalink: /posts/2020/01/life-span-of-a-project/
+permalink: /posts/2020/01/25/life-span-of-a-project/
 tags:
   - Project
 ---

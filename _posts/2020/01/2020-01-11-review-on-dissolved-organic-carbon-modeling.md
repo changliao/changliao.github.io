@@ -1,7 +1,7 @@
 ---
 title: 'A review on dissolved organic carbon modeling'
 date: 2020-01-11
-permalink: /posts/2020/01/review-on-dissolved-organic-carbon-modeling/
+permalink: /posts/2020/01/11/review-on-dissolved-organic-carbon-modeling/
 tags:
   - Dissolved organic carbon
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Publish HexWatershed as an independent software'
 date: 2020-10-12
-permalink: /posts/2020/10/official-hexwatershed/
+permalink: /posts/2020/10/12/official-hexwatershed/
 tags:
   - HexWatershed
   - Watershed

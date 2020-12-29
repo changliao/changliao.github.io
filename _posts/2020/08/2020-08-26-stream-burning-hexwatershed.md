@@ -1,7 +1,7 @@
 ---
 title: 'Stream burning on hexagonal mesh'
 date: 2020-08-26
-permalink: /posts/2020/08/stream-burning-on-hexagonal-mesh/
+permalink: /posts/2020/08/26/stream-burning-on-hexagonal-mesh/
 tags:
   - HexWatershed
   - Watershed

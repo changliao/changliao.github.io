@@ -1,7 +1,7 @@
 ---
 title: 'Paper discussion Streamflow in the Columbia River Basin'
 date: 2020-01-11
-permalink: /posts/2020/01/paper-discussion-streamflow-in-the-columbia-river-basin/
+permalink: /posts/2020/01/11/paper-discussion-streamflow-in-the-columbia-river-basin/
 tags:
   - Streamflow
   - review2

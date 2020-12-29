@@ -1,7 +1,7 @@
 ---
 title: 'Hybrid modeling for Earth system model'
 date: 2020-05-14
-permalink: /posts/2020/05/hybrid-model-earth-system-model/
+permalink: /posts/2020/05/14/hybrid-model-earth-system-model/
 tags:
   - Hydrology
   - ESM
