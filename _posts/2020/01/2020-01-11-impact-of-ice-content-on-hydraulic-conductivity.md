@@ -1,5 +1,5 @@
 ---
-title: 'The impact of ice content on hydraulic conductivity'
+title: 'Impact of ice content on hydraulic conductivity'
 date: 2020-01-11
 permalink: /posts/2020/01/11/impact-of-ice-content-on-hydraulic-conductivity/
 tags:
