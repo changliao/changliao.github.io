@@ -1,8 +1,10 @@
 ---
 title: 'Posts'
-date: '2021-01-01'
-author: Chang Liao
+date: 2020-10-12
+permalink: /posts/
 tags:
+  - Blog
+
 ---
 
 
