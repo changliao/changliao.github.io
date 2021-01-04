@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 =========
-* B.S. School of Remote Sensing and Information Engineering, Wuhan University, 2009
+* Ph.D. Department of Earth, Atmospheric, and Planetary Sciences, Purdue University. 2017
 * M.S. 
   * School of Remote Sensing and Information Engineering, Wuhan University. 2011  
   * Institute of Geographic Sciences and Natural Resources Research, Beijing. 2011
-* Ph.D. Department of Earth, Atmospheric, and Planetary Sciences, Purdue University. 2017
+* B.S. School of Remote Sensing and Information Engineering, Wuhan University, 2009
 
 Work experience
 ===============
