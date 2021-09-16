@@ -10,6 +10,8 @@ redirect_from:
   - /news.html
 ---
 
+* 2021-03-14 HexWatershed 2.0 with stream burning was submitted to Advances in Water Resources (AWR). 
+
 * 2020-12-14 The first hydrologic model that uses HexWatershed as flow direction: 
 [AGU poster](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/673223).
 
