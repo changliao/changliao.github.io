@@ -22,6 +22,6 @@ I developed models and tools to understand Earth system.
 - 👯 I’m looking to collaborate on hydrology related projects
 - 🤔 I’m looking for help with math and physics
 - 💬 Ask me about high performance computing, hydrology and RS/GIS.
-- 📫 How to reach me: Twitter (www.twitter.com/changliao1025) or climate@changliao.us
+- 📫 How to reach me: Twitter (www.twitter.com/changliao1025) or changliao.climate@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I can roll a kayak.
