@@ -13,6 +13,8 @@ redirect_from:
 * 2021-12-04 HexWatershed 3.0 will be presented in AGU Fall meeting 2021: Mesh independent flow direction modeling. 
              Hillslope based lateral flow model with calibration will be presented in AGU Fall meeting 2021.
 
+* 2021-10-12 HexWatershed workshop proposal submitted to the AGU Frontier in Hydrology meeting.
+
 * 2021-03-14 HexWatershed 2.0 with stream burning was submitted to Advances in Water Resources (AWR). 
 
 * 2020-12-14 The first hydrologic model that uses HexWatershed as flow direction: 
