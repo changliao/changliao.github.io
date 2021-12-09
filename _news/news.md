@@ -9,6 +9,10 @@ redirect_from:
   - /news/
   - /news.html
 ---
+* 2021-12-09 HexWatershed workshop "Variable-resolution flow routing in Earth System Models: An introduction to HexWatershed" was accepted by AGU Frontiers in Hydrology Meeting 2022. 
+[AGU FIHM](https://agu.confex.com/agu/hydrology22/prelim.cgi/Session/143108).
+
+* 2021-12-09 HexWatershed 2.0 "Advances in hexagon mesh based flow direction modeling" was accepted by Advances in Water Resources (AWR).
 
 * 2021-12-04 HexWatershed 3.0 will be presented in AGU Fall meeting 2021: Mesh independent flow direction modeling. 
 
