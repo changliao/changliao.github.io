@@ -10,5 +10,4 @@ location: "Richland, WA, USA"
 
 A global scale river routing model based on HexWatershed (The first global river network using hexagonal mesh).
 
-
-
+HexGlobe was merged into HexWatershed as a global option.
