@@ -4,7 +4,7 @@ collection: talks
 type: "Presentation"
 permalink: /talks/hexwatershed_csdms_2022
 venue: "Pacific Northwest National Laboratory"
-date: 2022-05
+date: 2022-05-17
 location: "Boulder Colorado, United States"
 ---
 
