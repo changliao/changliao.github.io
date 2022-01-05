@@ -7,7 +7,7 @@ date: 2021-12-09
 venue: 'Advances in Water Resources'
 paperurl: 'http://changliao.github.io/files/hexwatershed2021.pdf'
 citation: 'Chang Liao, Tian Zhou, Donghui Xu, Richard Barnes, Gautam Bisht,
-Hong-Yi Li, Zeli Tan, Teklu Tesfa, Zhuoran Duan, Darren Engwirda, and L. Ruby Leung. Advances in hexagon mesh based flow direction modeling. Advances in Water Resources (2021).'
+Hong-Yi Li, Zeli Tan, Teklu Tesfa, Zhuoran Duan, Darren Engwirda, and L. Ruby Leung. Advances in hexagon mesh based flow direction modeling. Advances in Water Resources (2021). https://doi.org/10.1016/j.advwatres.2021.104099'
 ---
 
 
