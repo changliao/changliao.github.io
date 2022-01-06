@@ -9,6 +9,8 @@ redirect_from:
   - /news/
   - /news.html
 ---
+* 2022-01-04 HexWatershed 2.0 "Advances in hexagon mesh based flow direction modeling" was published [HexWatershed 2.0](https://doi.org/10.1016/j.advwatres.2021.104099).
+
 * 2021-12-09 HexWatershed workshop "Variable-resolution flow routing in Earth System Models: An introduction to HexWatershed" was accepted by AGU Frontiers in Hydrology Meeting 2022. 
 [AGU FIHM](https://agu.confex.com/agu/hydrology22/prelim.cgi/Session/143108).
 
