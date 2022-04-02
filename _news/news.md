@@ -13,11 +13,10 @@ redirect_from:
 
 * 2022-03-04 A core component of HexWatershed 3.0, was released as a standalone Python package: [PyFlowline](https://anaconda.org/conda-forge/pyflowline/).
 
-* 2022-03-02 "Topological relationships-based flow direction modeling part 1: mesh-independent river networks representation" was submitted to Journal of Advances in Modeling Earth Systems(JAMES).
+* 2022-03-02 "Topological relationships-based flow direction modeling part 1: mesh-independent river networks representation" was submitted to Journal of Advances in Modeling Earth Systems (JAMES).
 
 * 2022-02-20 PyEarth is released:
 [pyearth 0.1.20](https://anaconda.org/conda-forge/pyearth)
-
 
 * 2022-01-04 HexWatershed 2.0 "Advances in hexagon mesh based flow direction modeling" was published [HexWatershed 2.0](https://doi.org/10.1016/j.advwatres.2021.104099).
 
