@@ -11,6 +11,5 @@ Hong-Yi Li, Zeli Tan, Teklu Tesfa, Zhuoran Duan, Darren Engwirda, and L. Ruby Le
 ---
 
 
-
 Recommended citation: Chang Liao, Tian Zhou, Donghui Xu, Richard Barnes, Gautam Bisht,
 Hong-Yi Li, Zeli Tan, Teklu Tesfa, Zhuoran Duan, Darren Engwirda, and L. Ruby Leung. Advances in hexagon mesh based flow direction modeling. Advances in Water Resources (2021).
