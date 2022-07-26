@@ -6,7 +6,7 @@ excerpt: "The representation of physical processes in earth system models is oft
 date: 2021-11-09
 venue: '29th International Meshing Roundtable (IMR)'
 paperurl: 'http://changliao.github.io/files/jigsaw2021.pdf'
-citation: 'Engwirda, Darren, & Liao, Chang. (2021, October 9). 'Unified' Laguerre-Power Meshes for Coupled Earth System Modelling. 29th International Meshing Roundtable (IMR), Virtual Conference. https://doi.org/10.5281/zenodo.5558988'
+citation: 'Engwirda, Darren, & Liao, Chang. (2021, October 9). 'Unified' Laguerre Power Meshes for Coupled Earth System Modelling. 29th International Meshing Roundtable (IMR), Virtual Conference. https://doi.org/10.5281/zenodo.5558988'
 ---
 
 
