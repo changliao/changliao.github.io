@@ -10,7 +10,7 @@ redirect_from:
   - /news.html
 ---
 
-* 2022-07-28 The first study using results from HexWatershed to investigate the river-ocean interactions was submitted to GMD: (https://hess.copernicus.org/preprints/hess-2022-251/).
+* 2022-07-28 The first study using results from HexWatershed to investigate the river-ocean interactions was submitted to HESS: (https://hess.copernicus.org/preprints/hess-2022-251/).
 
 * 2022-07-01 Our paper using a surrogate-assisted Bayesian framework for ELM model calibration was published: (https://gmd.copernicus.org/articles/15/5021/2022/gmd-15-5021-2022.html).
 
