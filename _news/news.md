@@ -10,13 +10,15 @@ redirect_from:
   - /news.html
 ---
 
+* 2023-01-23 "Topological relationship-based flow direction modeling: mesh-independent river networks representation" was accepted (https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022MS003089). 
+
 * 2022-07-28 The first study using results from HexWatershed to investigate the river-ocean interactions was submitted to HESS: [Unstructured mesh-based MOSART](https://hess.copernicus.org/preprints/hess-2022-251/).
 
 * 2022-07-01 Our paper using a surrogate-assisted Bayesian framework for ELM model calibration was published: [UQTK ELM](https://gmd.copernicus.org/articles/15/5021/2022/gmd-15-5021-2022.html).
 
 * 2022-03-04 A core component of HexWatershed 3.0, was released as a standalone Python package: [PyFlowline](https://anaconda.org/conda-forge/pyflowline/).
 
-* 2022-03-02 "Topological relationships-based flow direction modeling part 1: mesh-independent river networks representation" was submitted to Journal of Advances in Modeling Earth Systems (JAMES).
+* 2022-03-02 "Topological relationship-based flow direction modeling: mesh-independent river networks representation" was submitted to Journal of Advances in Modeling Earth Systems (JAMES).
 
 * 2022-02-20 PyEarth is released:
 [pyearth 0.1.20](https://anaconda.org/conda-forge/pyearth)
