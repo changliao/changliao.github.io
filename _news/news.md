@@ -10,7 +10,7 @@ redirect_from:
   - /news.html
 ---
 
-* 2023-01-23 "Topological relationship-based flow direction modeling: mesh-independent river networks representation" was accepted (https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022MS003089). 
+* 2023-01-23 "Topological relationship-based flow direction modeling: mesh-independent river networks representation" was accepted [PyFlowline](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022MS003089). 
 
 * 2022-07-28 The first study using results from HexWatershed to investigate the river-ocean interactions was submitted to HESS: [Unstructured mesh-based MOSART](https://hess.copernicus.org/preprints/hess-2022-251/).
 
