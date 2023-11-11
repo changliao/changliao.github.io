@@ -1,8 +1,11 @@
 ---
-layout: archive
+permalink: /
 title: "About me"
-permalink: /about/
+excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am an Earth scientist at the Pacific Northwest National Laboratory.
