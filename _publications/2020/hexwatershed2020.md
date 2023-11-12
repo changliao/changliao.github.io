@@ -9,6 +9,6 @@ paperurl: 'http://changliao.github.io/files/hexwatershed2020.pdf'
 citation: 'Liao, Chang, Teklu Tesfa, Zhuoran Duan, and L. Ruby Leung. Watershed delineation on a hexagonal mesh grid. Environmental Modelling & Software (2020) 104702.'
 ---
 
-[Download paper here](http://changliao.github.io/files/hexwatershed2020.pdf)
+[Download paper here](http://changliao.github.io/files/2020/hexwatershed_ems.pdf)
 
 Recommended citation: Liao, Chang, Teklu Tesfa, Zhuoran Duan, and L. Ruby Leung. Watershed delineation on a hexagonal mesh grid. Environmental Modelling & Software (2020) 104702.
