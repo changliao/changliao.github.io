@@ -25,6 +25,7 @@ Work experience
   * Projects: 
     * Hillslope-based subsurface lateral groundwater flow model (H2SC) in the Next-Generation Ecosystem Experiments (NGEE)-Tropics project. 
     * Model for Prediction Across Scales (MPAS) mesh-based flow routing model in DOE’s Integrated Coastal Modeling (ICoM) project. 
+    * A unified mesh-based flow routing modeling in DOE’s Interdisciplinary Research for Arctic Coastal Environments (InteRFACE) project. 
 * 2017-2020: Postdoc Associate
   * Pacific Northwest National Laboratory
   * Projects: 
