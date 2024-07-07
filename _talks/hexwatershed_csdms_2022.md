@@ -1,7 +1,7 @@
 ---
 title: "Variable resolution flow direction: an introduction to HexWatershed"
 collection: talks
-type: "Presentation"
+type: "Workshop"
 permalink: /talks/hexwatershed_csdms_2022
 venue: "Pacific Northwest National Laboratory"
 date: 2022-05-17
