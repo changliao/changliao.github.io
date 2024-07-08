@@ -6,9 +6,7 @@ excerpt: 'Coastal wetlands play an important role in the global water and biogeo
 date: 2024-06-20
 venue: 'Frontiers in Earth Science'
 paperurl: 'http://changliao.github.io/files/2024/coastal_wetland.pdf'
-citation: 'Tan, Z., Leung, L. R., Luca Carniiello, Jose F. Rodriguez, Patricia M. Saco, Steven Sandi Rojas, J. Patrick Megonigal, Vanessa L. Bailey. A Multi-algorithm Approach for Modeling Coastal Wetland Ecogeomorphology. Frontiers in Earth Science. https://doi.org/10.3389/feart.2024.1421265'
+citation: 'Tan, Z., Leung, L. R., Liao, C., Luca Carniiello, Jose F. Rodriguez, Patricia M. Saco, Steven Sandi Rojas, J. Patrick Megonigal, Vanessa L. Bailey. A Multi-algorithm Approach for Modeling Coastal Wetland Ecogeomorphology. Frontiers in Earth Science. https://doi.org/10.3389/feart.2024.1421265'
 ---
 
-
-Recommended citation: Tan, Z., Leung, L. R., Luca Carniiello, Jose F. Rodriguez, Patricia M. Saco, Steven Sandi Rojas, J. Patrick Megonigal, Vanessa L. Bailey. A Multi-algorithm Approach for Modeling Coastal Wetland Ecogeomorphology. Frontiers in Earth Science. https://doi.org/10.3389/feart.2024.1421265
-
+Recommended citation: Tan, Z., Leung, L. R., Liao, C., Luca Carniiello, Jose F. Rodriguez, Patricia M. Saco, Steven Sandi Rojas, J. Patrick Megonigal, Vanessa L. Bailey. A Multi-algorithm Approach for Modeling Coastal Wetland Ecogeomorphology. Frontiers in Earth Science. https://doi.org/10.3389/feart.2024.1421265
