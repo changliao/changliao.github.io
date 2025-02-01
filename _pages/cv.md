@@ -64,7 +64,7 @@ Publications
 ============
 <ul>
   {% assign sorted_publications = site.publications | sort: 'date' | reverse %} 
-  {% for year, publications_in_year in all_publications | group_by: "date | date: '%Y'" %} 
+  {% for year, publications_in_year in sorted_publications | group_by: "date | date: '%Y'" %} 
     <h2>{{ year }}</h2> 
     <ul>
       {% for publication in publications_in_year %}
