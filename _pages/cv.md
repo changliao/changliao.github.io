@@ -64,8 +64,15 @@ Publications
 ============
 <ul>
   {% assign sorted_publications = site.publications | sort: 'date' | reverse %} 
-  {% for post in sorted_publications %}
-    {% include archive-single-cv.html %}
+  {% for year, publications_in_year in all_publications | group_by: "date | date: '%Y'" %} 
+    <h2>{{ year }}</h2> 
+    <ul>
+      {% for publication in publications_in_year %}
+        <li>
+          <a href="{{ publication.permalink }}">{{ publication.title }}</a> 
+        </li>
+      {% endfor %}
+    </ul>
   {% endfor %}
 </ul>
 
