@@ -62,19 +62,11 @@ Skills
 
 Publications
 ============
-<ul>
-  {% assign sorted_publications = site.publications | sort: 'date' | reverse %} 
-  {% for year, publications_in_year in sorted_publications | group_by: "date | date: '%Y'" %} 
-    <h2>{{ year }}</h2> 
-    <ul>
-      {% for publication in publications_in_year %}
-        <li>
-          <a href="{{ publication.permalink }}">{{ publication.title }}</a> 
-        </li>
-      {% endfor %}
-    </ul>
-  {% endfor %}
-</ul>
+Publications
+============
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Softwares and Applications
 ==========================
