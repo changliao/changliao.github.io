@@ -23,7 +23,7 @@ Work experience
 * 2020-Present: Earth Scientist
   * Pacific Northwest National Laboratory
   * Projects: 
-    * Adoption of the Model for Prediction Across Scales (https://mpas-dev.github.io/) mesh in the Department of Energy (DOE)'s Energy Exascale Earth System Model (https://e3sm.org) land (ELM) and river (MOSART) components in the E3SM project.    
+    * Adoption of the Model for Prediction Across Scales (https://mpas-dev.github.io/) mesh in the Department of Energy (DOE) Energy Exascale Earth System Model (https://e3sm.org) land (ELM) and river (MOSART) components in the E3SM project.    
     * Model for Prediction Across Scales (MPAS) mesh-based flow routing model in DOE’s Integrated Coastal Modeling (ICoM) project. 
     * A unified mesh-based flow routing modeling in DOE’s Interdisciplinary Research for Arctic Coastal Environments (InteRFACE) project. 
     * Hillslope-based subsurface lateral groundwater flow model (H2SC) in the Next-Generation Ecosystem Experiments (NGEE)-Tropics project. 
