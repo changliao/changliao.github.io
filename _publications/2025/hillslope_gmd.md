@@ -7,7 +7,7 @@ date: 2025-04-25
 year: 2025
 venue: 'Geoscientific Model Development'
 paperurl: 'http://changliao.github.io/files/2025/hillslope_gmd2025.pdf'
-citation: 'Liao, C., Leung, R., Fang, Y., Tesfa, T., and Negron-Juarez, R.: Representing Lateral Groundwater Flow from Land to River in Earth System Models, Geosci. Model Dev, https://doi.org/10.5194/gmd-2024-178, accepted, 2025.'
+citation: 'Liao, C., Leung, L. R., Fang, Y., Tesfa, T., and Negron-Juarez, R.: Representing lateral groundwater flow from land to river in Earth system models, Geosci. Model Dev., 18, 4601–4624, https://doi.org/10.5194/gmd-18-4601-2025, 2025. '
 ---
 
-Recommended citation: Liao, C., Leung, R., Fang, Y., Tesfa, T., and Negron-Juarez, R.: Representing Lateral Groundwater Flow from Land to River in Earth System Models, Geosci. Model Dev, https://doi.org/10.5194/gmd-2024-178, accepted, 2025.
+Recommended citation: Liao, C., Leung, L. R., Fang, Y., Tesfa, T., and Negron-Juarez, R.: Representing lateral groundwater flow from land to river in Earth system models, Geosci. Model Dev., 18, 4601–4624, https://doi.org/10.5194/gmd-18-4601-2025, 2025. 
