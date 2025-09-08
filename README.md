@@ -12,5 +12,5 @@ My research interests include:
 * Ecosystem modeling; and
 * Snow dynamics and permafrost degradation.
 
-To visit the website: go to [changliao.github.io](changliao.github.io).
+To visit the website: go to [changliao.github.io](www.changliao.github.io).
 
