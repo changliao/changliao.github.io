@@ -19,8 +19,11 @@ Education
 
 Work experience
 ===============
-
-* 2020-Present: Earth Scientist
+* 2026-present: Earth Scientist
+  * Institute of Atmospheric Physics, Chinese Academy of Sciences
+  * Projects: 
+    * Development and application of three-dimensional km-scale land surface model
+* 2020-2026: Earth Scientist
   * Pacific Northwest National Laboratory
   * Projects: 
     * Adoption of the Model for Prediction Across Scales (https://mpas-dev.github.io/) mesh in the Department of Energy (DOE) Energy Exascale Earth System Model (https://e3sm.org) land (ELM) and river (MOSART) components in the E3SM project.    
