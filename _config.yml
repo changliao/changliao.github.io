@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Earth Science"
+title                    : "Chang Liao"
 title_separator          : "-"
 name                     : &name "Chang Liao"
-description              : &description "personal description"
+description              : &description "Personal website of Chang Liao, Earth Scientist specializing in hydrology, land surface modeling, and high-performance Earth system simulations."
 url                      : https://changliao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "changliao/changliao.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chang Liao"
   avatar           : "profile.png"
-  bio              : "Earth Scientist"
+  bio              : "Earth Scientist | Hydrology & Land Surface Modeling"
   location         : "Richland, WA, USA"
-  employer         :
+  employer         : "CAS / PNNL"
   pnnl             : "https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=9326"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=nDQQrysAAAAJ"
-  email            :
+  email            : "changliao.climate@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Chang_Liao"
   uri              :
   bitbucket        :
