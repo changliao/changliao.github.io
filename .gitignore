@@ -4,6 +4,12 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
+# Node / npm
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
 # Bundler
 .bundle/
 vendor/bundle/
