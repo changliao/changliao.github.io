@@ -1,0 +1,11 @@
+github_users:
+  - changliao1025
+
+repo_description_lines_max: 2
+
+github_repos:
+  - changliao1025/hexwatershed
+  - changliao1025/pyflowline
+  - changliao1025/pyearth
+  - changliao1025/eco3d
+  - changliao1025/changliao.github.io

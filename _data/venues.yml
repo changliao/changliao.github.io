@@ -1,0 +1,51 @@
+"JAMES":
+  url: https://agupubs.onlinelibrary.wiley.com/journal/19422466
+  color: "#0077b6"
+
+"GMD":
+  url: https://gmd.copernicus.org/
+  color: "#2a9d8f"
+
+"ESSD":
+  url: https://essd.copernicus.org/
+  color: "#e76f51"
+
+"AWR":
+  url: https://www.sciencedirect.com/journal/advances-in-water-resources
+  color: "#023e8a"
+
+"EMS":
+  url: https://www.sciencedirect.com/journal/environmental-modelling-and-software
+  color: "#1d3557"
+
+"J. Hydrol.":
+  url: https://www.sciencedirect.com/journal/journal-of-hydrology
+  color: "#457b9d"
+
+"NHESS":
+  url: https://nhess.copernicus.org/
+  color: "#e63946"
+
+"ERL":
+  url: https://iopscience.iop.org/journal/1748-9326
+  color: "#38b000"
+
+"New Phytol.":
+  url: https://nph.onlinelibrary.wiley.com/
+  color: "#588157"
+
+"Vadose Zone J.":
+  url: https://acsess.onlinelibrary.wiley.com/journal/15391663
+  color: "#8338ec"
+
+"JOSS":
+  url: https://joss.theoj.org/
+  color: "#3a86ff"
+
+"JGR":
+  url: https://agupubs.onlinelibrary.wiley.com/journal/21699011
+  color: "#0096c7"
+
+"Front. Earth Sci.":
+  url: https://www.frontiersin.org/journals/earth-science
+  color: "#f4a261"

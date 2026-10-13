@@ -1,0 +1,121 @@
+cv:
+  name: Chang Liao
+  label: Earth Scientist
+  email: changliao.climate@gmail.com
+  location: Beijing, China
+  image: ""
+  summary: Earth Scientist specializing in three-dimensional kilometer-scale land surface modeling, mesh-independent river networks, and high-performance computing at the Institute of Atmospheric Physics, Chinese Academy of Sciences.
+
+  social_networks:
+    - network: GitHub
+      username: changliao1025
+    - network: Google Scholar
+      username: nDQQrysAAAAJ
+    - network: ORCID
+      username: 0000-0002-7348-8858
+    - network: ResearchGate
+      username: Chang_Liao
+
+  address:
+    street: Institute of Atmospheric Physics, CAS
+    city: Beijing
+    countryCode: CN
+
+  sections:
+    Education:
+      - institution: Purdue University
+        location: West Lafayette, IN, USA
+        area: Earth, Atmospheric, and Planetary Sciences
+        studyType: Ph.D.
+        start_date: 2012
+        end_date: 2017
+        highlights:
+          - "Advisor: Prof. Qianlai Zhuang"
+          - "Research on 3D hydrology and biogeochemistry in cold-region ecosystems."
+
+      - institution: Wuhan University / IGSNRR CAS
+        location: Wuhan / Beijing, China
+        area: Remote Sensing and Geographic Information Engineering
+        studyType: M.S.
+        start_date: 2009
+        end_date: 2011
+        highlights:
+          - "School of Remote Sensing and Information Engineering, Wuhan University"
+          - "Institute of Geographic Sciences and Natural Resources Research, CAS"
+
+      - institution: Wuhan University
+        location: Wuhan, China
+        area: Remote Sensing and Information Engineering
+        studyType: B.S.
+        start_date: 2005
+        end_date: 2009
+
+    Experience:
+      - company: Institute of Atmospheric Physics, Chinese Academy of Sciences
+        position: Earth Scientist
+        location: Beijing, China
+        start_date: 2026
+        end_date: Present
+        summary: Leading the development and application of three-dimensional kilometer-scale land surface models.
+        highlights:
+          - "Unstructured Voronoi mesh frameworks for large-scale hydrologic and land surface modeling."
+          - "Multi-scale land-river-ocean coupled modeling and high-resolution Earth system simulations."
+
+      - company: Pacific Northwest National Laboratory
+        position: Earth Scientist
+        location: Richland, WA, USA
+        start_date: 2020
+        end_date: 2026
+        summary: Earth Scientist contributing to DOE's Energy Exascale Earth System Model (E3SM) and related hydroclimate projects.
+        highlights:
+          - "Adoption of MPAS meshes in DOE E3SM land (ELM) and river (MOSART) components."
+          - "Development of multi-hillslope-based land surface model in NASA ABoVE Terrestrial Ecology project."
+          - "MPAS mesh-based flow routing model in DOE Integrated Coastal Modeling (ICoM) project."
+          - "Unified mesh-based flow routing modeling in DOE InteRFACE project."
+          - "Hillslope-based subsurface lateral groundwater flow model (H2SC) in NGEE-Tropics."
+
+      - company: Pacific Northwest National Laboratory
+        position: Postdoctoral Research Associate
+        location: Richland, WA, USA
+        start_date: 2017
+        end_date: 2020
+        summary: Postdoctoral research on high-resolution hydrologic modeling.
+        highlights:
+          - "Hillslope-based lateral groundwater flow model (H2SC) in E3SM / NGEE-Tropics."
+          - "Developed HexWatershed: a mesh-independent flow direction and watershed delineation model."
+          - "Integrated surface water and groundwater transport simulations."
+
+      - company: Purdue University
+        position: Graduate Research Assistant
+        location: West Lafayette, IN, USA
+        start_date: 2012
+        end_date: 2017
+        highlights:
+          - "Developed 3D water and carbon cycle terrestrial ecosystem model (ECO3D)."
+          - "Integrated surface water and groundwater modeling (MODFLOW-USG / PRMS) in Arctic watersheds."
+          - "Quantified global plant production and drought impacts using process-based models."
+
+    Skills:
+      - name: Scientific Computing & Modeling
+        level: Expert
+        icon: fa-solid fa-laptop-code
+        keywords: "Earth System Modeling (E3SM, ELM, MOSART), Hydrologic Modeling, Unstructured Mesh (MPAS, Voronoi, Hexagon), Ecosystem Modeling (ECO3D)"
+
+      - name: High-Performance Computing (HPC) & Programming
+        level: Expert
+        icon: fa-solid fa-code
+        keywords: "C/C++, Fortran, Python, MPI, OpenMP, Git, Bash, Conda"
+
+      - name: Geospatial & Data Analysis
+        level: Expert
+        icon: fa-solid fa-globe
+        keywords: "GIS, GDAL/OGR, Remote Sensing, NetCDF, GeoTIFF, VTK, IDL"
+
+      - name: Model Calibration & Uncertainty Analysis
+        level: Advanced
+        icon: fa-solid fa-chart-line
+        keywords: "PEST, Bayesian Inference, Polynomial Chaos Expansion, SCE-UA"
+
+    Service:
+      - name: Professional Service
+        summary: "Member of American Geophysical Union (AGU). Reviewer for international peer-reviewed journals in Earth science, hydrology, and computational geosciences. DOE BER proposal reviewer."

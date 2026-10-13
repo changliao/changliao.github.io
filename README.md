@@ -1,27 +1,21 @@
-# Chang Liao's Academic Website
+# Dr. Chang Liao's Academic Website
 
-This repository hosts the source code for my personal academic website: [changliao.github.io](https://changliao.github.io/).
+[![Deploy Site](https://github.com/changliao/changliao.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/changliao/changliao.github.io/actions/workflows/deploy.yml)
 
-## About
+This is the source code for the personal academic website of **Dr. Chang Liao**, Earth Scientist at the [Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS)](http://english.iap.cas.cn/).
 
-I am an **Earth Scientist** at the Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS) in Beijing, China (formerly at the Pacific Northwest National Laboratory).
+**Live Site**: [https://changliao.github.io](https://changliao.github.io)
 
-My research focuses on establishing operational and flexible modeling frameworks to investigate and predict water, energy, and carbon cycle dynamics under changing climates and extreme events.
+---
 
-### Research Interests
-* Large-scale / kilometer-scale land surface and terrestrial modeling (E3SM ELM)
-* Unstructured mesh and river routing (HexWatershed, MPAS Voronoi mesh, MOSART)
-* Hydro-climate extremes and compound flood modeling
-* High-performance scientific computing and parallel simulation
+## 🏛️ Overview & Architecture
 
-### Open-Source Software
-* [HexWatershed](https://www.hexwatershed.org) — Mesh-independent flow direction and watershed delineation model.
-* [PyFlowline](https://pyflowline.readthedocs.io/en/latest/) — Mesh-independent river network generator.
-* [PyEarth](https://pyearth.readthedocs.io/en/latest/) — Utilities and geospatial tools for Earth sciences.
-* [ECO3D](https://github.com/changliao1025/eco3d) — 3D water and carbon cycle terrestrial ecosystem model.
+* **Framework**: Built with [Jekyll](https://jekyllrb.com/) using the modern [al-folio](https://github.com/alshedivat/al-folio) academic theme.
+* **Publications**: Powered by `jekyll-scholar` with automated author highlighting and metric badges. Source entries reside in `_bibliography/papers.bib`.
+* **Software & Projects**: Maintained in `_projects/` highlighting HexWatershed, PyFlowline, PyEarth, and ECO3D.
+* **News & Updates**: Managed in `_news/` as individual dated announcement entries.
+* **Continuous Deployment**: Automated via GitHub Actions (`.github/workflows/deploy.yml`), compiling on Ruby 3.3.5 and deploying the production build to the `gh-pages` branch.
 
-### Contact
-* Website: [https://changliao.github.io](https://changliao.github.io)
-* Email: changliao.climate@gmail.com
-* Google Scholar: [Profile](https://scholar.google.com/citations?hl=en&user=nDQQrysAAAAJ)
-* ORCID: [0000-0002-7348-8858](https://orcid.org/0000-0002-7348-8858)
+## 💾 Historical Backups
+
+* The prior `AcademicPages`-based site is permanently preserved at Git branch `backup-academicpages` and Git tag `v1.0-academicpages`.

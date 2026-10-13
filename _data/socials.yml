@@ -1,0 +1,15 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+
+email: changliao.climate@gmail.com # your email address
+scholar_userid: nDQQrysAAAAJ # your Google Scholar ID
+orcid_id: 0000-0002-7348-8858 # your ORCID ID
+github_username: changliao1025 # your GitHub username
+research_gate_profile: Chang_Liao # your ResearchGate profile
+rss_icon: true # show RSS feed icon
+
+cas_iap:
+  logo: https://english.iap.cas.cn/favicon.ico
+  title: "Institute of Atmospheric Physics, CAS"
+  url: http://english.iap.cas.cn/
