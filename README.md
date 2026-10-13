@@ -4,7 +4,7 @@ This repository hosts the source code for my personal academic website: [changli
 
 ## About
 
-I am an **Earth Scientist** at the Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (formerly at the Pacific Northwest National Laboratory).
+I am an **Earth Scientist** at the Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS) in Beijing, China (formerly at the Pacific Northwest National Laboratory).
 
 My research focuses on establishing operational and flexible modeling frameworks to investigate and predict water, energy, and carbon cycle dynamics under changing climates and extreme events.
 

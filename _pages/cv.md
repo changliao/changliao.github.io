@@ -20,11 +20,11 @@ Education
 Work experience
 ===============
 * 2026-present: Earth Scientist
-  * Institute of Atmospheric Physics, Chinese Academy of Sciences
+  * Institute of Atmospheric Physics, Chinese Academy of Sciences, Beijing, China
   * Projects: 
     * Development and application of three-dimensional km-scale land surface model
 * 2020-2026: Earth Scientist
-  * Pacific Northwest National Laboratory
+  * Pacific Northwest National Laboratory, Richland, WA, USA
   * Projects: 
     * Adoption of the Model for Prediction Across Scales (https://mpas-dev.github.io/) mesh in the Department of Energy (DOE) Energy Exascale Earth System Model (https://e3sm.org) land (ELM) and river (MOSART) components in the E3SM project.    
     * Development of a multi-hillslope-based land surface model in National Aeronautics and Space Administration (NASA) Arctic-Boreal Vulnerability Experiment (https://above.nasa.gov) ABoVE ROSES Terrestrial Ecology project Using CO2, CH4 and land surface observations to resolve the sign and magnitude of northern high latitude carbon-climate feedbacks.
@@ -32,7 +32,7 @@ Work experience
     * A unified mesh-based flow routing modeling in DOE’s Interdisciplinary Research for Arctic Coastal Environments (InteRFACE) project. 
     * Hillslope-based subsurface lateral groundwater flow model (H2SC) in the Next-Generation Ecosystem Experiments (NGEE)-Tropics project. 
 * 2017-2020: Postdoc Associate
-  * Pacific Northwest National Laboratory
+  * Pacific Northwest National Laboratory, Richland, WA, USA
   * Projects: 
     * Hillslope-based subsurface lateral groundwater flow model (H2SC) in the Next-Generation Ecosystem Experiments (NGEE)-Tropics project. This model is implemented within Department Of Energy (DOE)’s Energy Exascale Earth System Model (E3SM).  
     * Hexagonal grid-based surface hydrology watershed delineation model (HexWatershed) in a Laboratory Directed Research and Development (LDRD) project. This model resolves several long-standing issues in hydrology and closes the gap between watershed hydrology and global scale hydrology.

@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am an **Earth Scientist** at the Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences, formerly at the Pacific Northwest National Laboratory (PNNL). I received my Ph.D. in Earth, Atmospheric, and Planetary Sciences from Purdue University.
+I am an **Earth Scientist** at the [Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS)](http://english.iap.cas.cn/) in Beijing, China. Prior to joining CAS in 2026, I worked as an Earth Scientist and Postdoctoral Research Associate at the Pacific Northwest National Laboratory (PNNL). I received my Ph.D. in Earth, Atmospheric, and Planetary Sciences from Purdue University.
 
 The overarching goal of my research is to establish flexible, operational, and scalable modeling frameworks to investigate and predict global water, carbon, and energy cycle dynamics under changing climates and extreme events.
 
@@ -45,7 +45,7 @@ The overarching goal of my research is to establish flexible, operational, and s
 
 ## 📢 Recent News Highlights
 
-* **2026**: Published latest research on unstructured Voronoi mesh frameworks for large-scale hydrologic modeling in *JAMES*, and systematic evaluation of kilometer-scale land surface modeling in *Journal of Hydrology*.
+* **2026**: Joined the Institute of Atmospheric Physics, Chinese Academy of Sciences (CAS) as an Earth Scientist. Published latest research on unstructured Voronoi mesh frameworks for large-scale hydrologic modeling in *JAMES*, and systematic evaluation of kilometer-scale land surface modeling in *Journal of Hydrology*.
 * **2025**: Presented the unified mesh framework at the E3SM All Hands Meeting.
 * **2024**: Invited talk on kilometer-scale river routing modeling at ESCO 2024, and conducted the HexWatershed 3.0 workshop at the CSDMS Annual Meeting.
 
