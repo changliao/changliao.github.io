@@ -27,17 +27,50 @@ The overarching goal of my research is to establish flexible, operational, and s
 
 ## 💻 Featured Open-Source Software
 
-* **[HexWatershed](https://www.hexwatershed.org)** — A mesh-independent flow direction and watershed delineation model supporting structured, hexagonal, and unstructured Voronoi meshes. Integrated with DOE's E3SM MOSART and indexed in CSDMS.  
-  [[Documentation](https://hexwatershed.readthedocs.io/en/latest/)] · [[GitHub](https://github.com/changliao1025/hexwatershed)]
+<div class="feature-grid">
+  <div class="feature-card">
+    <span class="feature-card__badge">Hydrology & Modeling</span>
+    <h3 class="feature-card__title"><a href="https://www.hexwatershed.org">HexWatershed</a></h3>
+    <p class="feature-card__desc">A mesh-independent flow direction and watershed delineation model supporting structured, hexagonal, and unstructured Voronoi meshes. Integrated with DOE's E3SM MOSART and CSDMS.</p>
+    <div class="feature-card__links">
+      <a href="https://hexwatershed.readthedocs.io/en/latest/">Docs</a>
+      <a href="https://github.com/changliao1025/hexwatershed">GitHub</a>
+      <a href="https://www.hexwatershed.org">Website</a>
+    </div>
+  </div>
 
-* **[PyFlowline](https://pyflowline.readthedocs.io/en/latest/)** — A mesh-independent river network generator and topological framework for hydrologic models. Available via `conda install -c conda-forge pyflowline`.  
-  [[Documentation](https://pyflowline.readthedocs.io/en/latest/)] · [[Conda-Forge](https://anaconda.org/conda-forge/pyflowline/)] · [[GitHub](https://github.com/changliao1025/pyflowline)]
+  <div class="feature-card">
+    <span class="feature-card__badge">River Topology</span>
+    <h3 class="feature-card__title"><a href="https://pyflowline.readthedocs.io/en/latest/">PyFlowline</a></h3>
+    <p class="feature-card__desc">A mesh-independent river network generator and topological framework for hydrologic models. Supports multi-scale Voronoi and hexagonal meshes.</p>
+    <div class="feature-card__links">
+      <a href="https://pyflowline.readthedocs.io/en/latest/">Docs</a>
+      <a href="https://anaconda.org/conda-forge/pyflowline/">Conda</a>
+      <a href="https://github.com/changliao1025/pyflowline">GitHub</a>
+    </div>
+  </div>
 
-* **[PyEarth](https://pyearth.readthedocs.io/en/latest/)** — A lightweight Python library providing routine utilities for Earth science data analysis and spatial visualization.  
-  [[Documentation](https://pyearth.readthedocs.io/en/latest/)] · [[Conda-Forge](https://anaconda.org/conda-forge/pyearth/)] · [[GitHub](https://github.com/changliao1025/pyearth)]
+  <div class="feature-card">
+    <span class="feature-card__badge">Geospatial Tools</span>
+    <h3 class="feature-card__title"><a href="https://pyearth.readthedocs.io/en/latest/">PyEarth</a></h3>
+    <p class="feature-card__desc">A lightweight Python utility library designed to streamline Earth science data manipulation, matrix conversions, and spatial visualization workflows.</p>
+    <div class="feature-card__links">
+      <a href="https://pyearth.readthedocs.io/en/latest/">Docs</a>
+      <a href="https://anaconda.org/conda-forge/pyearth/">Conda</a>
+      <a href="https://github.com/changliao1025/pyearth">GitHub</a>
+    </div>
+  </div>
 
-* **[ECO3D](https://github.com/changliao1025/eco3d)** — A three-dimensional process-based water and carbon cycle terrestrial ecosystem model (C++ and OpenMP).  
-  [[GitHub](https://github.com/changliao1025/eco3d)]
+  <div class="feature-card">
+    <span class="feature-card__badge">Ecosystem Model</span>
+    <h3 class="feature-card__title"><a href="https://github.com/changliao1025/eco3d">ECO3D</a></h3>
+    <p class="feature-card__desc">A three-dimensional process-based water and carbon cycle terrestrial ecosystem model implemented in C++ and OpenMP for parallel HPC simulations.</p>
+    <div class="feature-card__links">
+      <a href="https://github.com/changliao1025/eco3d">GitHub</a>
+      <a href="{{ site.baseurl }}/softwares/eco3d">Overview</a>
+    </div>
+  </div>
+</div>
 
 [Browse all software tools →]({{ site.baseurl }}/softwares/){: .btn .btn--primary}
 
