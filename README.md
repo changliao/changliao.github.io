@@ -16,6 +16,10 @@ This is the source code for the personal academic website of **Dr. Chang Liao**,
 * **News & Updates**: Managed in `_news/` as individual dated announcement entries.
 * **Continuous Deployment**: Automated via GitHub Actions (`.github/workflows/deploy.yml`), compiling on Ruby 3.3.5 and deploying the production build to the `gh-pages` branch.
 
+## 📖 Maintenance & Updates
+
+* For instructions on adding new publications, news, projects, or updating your CV, see the [Maintenance & Update Guide](MAINTENANCE.md).
+
 ## 💾 Historical Backups
 
 * The prior `AcademicPages`-based site is permanently preserved at Git branch `backup-academicpages` and Git tag `v1.0-academicpages`.
