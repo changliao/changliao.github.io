@@ -1,6 +1,6 @@
 ---
 layout: page
-title: software
+title: Software
 permalink: /projects/
 description: Open-source models, libraries, and tools for hydrology and Earth system science.
 nav: true

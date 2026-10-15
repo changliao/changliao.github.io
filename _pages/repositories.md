@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: Open-source repositories and codebases on GitHub.
 nav: true
 nav_order: 5
@@ -9,7 +9,7 @@ nav_order: 5
 
 {% if site.data.repositories.github_users %}
 
-## GitHub users
+## GitHub Users
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for user in site.data.repositories.github_users %}

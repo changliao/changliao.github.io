@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href="http://english.iap.cas.cn/" target="_blank">Institute of Atmospheric Physics, Chinese Academy of Sciences</a>
 
@@ -35,3 +35,9 @@ The overarching goal of my research is to establish flexible, operational, and s
 * **Mesh-Independent Hydrology & River Routing**: Unstructured Centroidal Voronoi Tessellations (MPAS) and hexagonal grid frameworks for multi-scale flow direction and river networks.
 * **Compound Flooding & Hydro-Climate Extremes**: Two-way coupled river-coastal hydrodynamic modeling and uncertainty quantification in extreme events.
 * **High-Performance Computing (HPC)**: Developing scalable Earth system models and parallel scientific software in C++, Fortran, and Python.
+
+<style>
+  article h2 a {
+    text-transform: capitalize;
+  }
+</style>
